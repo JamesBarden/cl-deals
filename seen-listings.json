@@ -457,7 +457,7 @@
   },
   "7919956355": {
     "first_seen": "2026-05-01T00:00:00Z",
-    "title": "Arlo Essential Video Doorbell Wired — 1080p HD, Motion Detection",
+    "title": "Arlo Essential Video Doorbell Wired \u2014 1080p HD, Motion Detection",
     "price": 20,
     "category": "electronics"
   },
@@ -505,7 +505,7 @@
   },
   "7931300759": {
     "first_seen": "2026-05-01T00:00:00Z",
-    "title": "Power Logicon UTI Model 5M – Universal Transducer Interface",
+    "title": "Power Logicon UTI Model 5M \u2013 Universal Transducer Interface",
     "price": 150,
     "category": "electronics"
   },
@@ -673,7 +673,7 @@
   },
   "7918295292": {
     "first_seen": "2026-05-01T00:00:00Z",
-    "title": "Artificial Ivy Plant with Wood Stand & Basket – 28\" Tall",
+    "title": "Artificial Ivy Plant with Wood Stand & Basket \u2013 28\" Tall",
     "price": 100,
     "category": "furniture"
   },
@@ -685,7 +685,7 @@
   },
   "7924363717": {
     "first_seen": "2026-05-01T00:00:00Z",
-    "title": "Large Chinese Silk Embroidery Framed Artwork – Qingming Festival Scene",
+    "title": "Large Chinese Silk Embroidery Framed Artwork \u2013 Qingming Festival Scene",
     "price": 750,
     "category": "furniture"
   },
@@ -697,7 +697,7 @@
   },
   "7914595584": {
     "first_seen": "2026-05-01T00:00:00Z",
-    "title": "Solid Wood Desk Set – Morigeau-Lépine – Made in Canada",
+    "title": "Solid Wood Desk Set \u2013 Morigeau-L\u00e9pine \u2013 Made in Canada",
     "price": 495,
     "category": "furniture"
   },
@@ -1975,7 +1975,7 @@
   },
   "7926354051": {
     "first_seen": "2026-05-01T12:00:00Z",
-    "title": "Charles Eames Orange Fiberglass Lounge Chair – Herman Miller",
+    "title": "Charles Eames Orange Fiberglass Lounge Chair \u2013 Herman Miller",
     "price": 799,
     "category": "furniture"
   },
@@ -2162,6 +2162,696 @@
   "7914242226": {
     "first_seen": "2026-05-01T12:00:00Z",
     "title": "Stool",
+    "price": 45,
+    "category": "furniture"
+  },
+  "7917814957": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Atomos Ninja Blade 5\" Monitor/Recorder - MINT Kit w/ Hard Case",
+    "price": 235,
+    "category": "photo"
+  },
+  "7917815947": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Atomos Ninja Blade 5\" Monitor/Recorder - MINT Kit",
+    "price": 215,
+    "category": "photo"
+  },
+  "7919631662": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "T ring adapter for Canon FD film camera mount",
+    "price": 10,
+    "category": "photo"
+  },
+  "7929607499": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "4 TRIPOD--$10 $10 $10 $20",
+    "price": 10,
+    "category": "photo"
+  },
+  "7919687572": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Canon T5i + extras (perfect condition)",
+    "price": 300,
+    "category": "photo"
+  },
+  "7912478348": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "TTArtisan 50 mm f/0.95 ASPH. Leica M mount perfect in box",
+    "price": 500,
+    "category": "photo"
+  },
+  "7924524217": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "MINOLTA ZOOM BINOCULARS with case",
+    "price": 75,
+    "category": "photo"
+  },
+  "7925571708": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Baby Posing Pillow",
+    "price": 35,
+    "category": "photo"
+  },
+  "7925571516": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Larson Reflectasol Photo Umbrellas - $2 Each",
+    "price": 0,
+    "category": "photo"
+  },
+  "7908247351": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Portable Hard Storage Case, For Sony Alpha A6400 / A6700",
+    "price": 10,
+    "category": "photo"
+  },
+  "7926072616": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Security Camera and NVR",
+    "price": 550,
+    "category": "photo"
+  },
+  "7924886344": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Security Ubiquiti Dream Wall Router Gateway WiFi Camera",
+    "price": 650,
+    "category": "photo"
+  },
+  "7931382690": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Professional newborn posing beanbag FILLED",
+    "price": 200,
+    "category": "photo"
+  },
+  "7917622692": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Nikon F80 35MM camera - Zoom and flash",
+    "price": 250,
+    "category": "photo"
+  },
+  "7922964110": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "FUJI Film 2 Packs 20 Sheets Each--New Sealed",
+    "price": 10,
+    "category": "photo"
+  },
+  "7917217242": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Hoya 62mm Filters",
+    "price": 15,
+    "category": "photo"
+  },
+  "7931432394": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Bearcat 125AT Handheld/Portable 500 Channel Analog Scanner",
+    "price": 65,
+    "category": "electronics"
+  },
+  "7911892451": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Comcast Xfinity TV remote",
+    "price": 5,
+    "category": "electronics"
+  },
+  "7922392536": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Printers/copy machines",
+    "price": 50,
+    "category": "electronics"
+  },
+  "7913398051": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Do you need a Razor E325 Electric Scooter?",
+    "price": 149,
+    "category": "electronics"
+  },
+  "7923438036": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Halo new construction ceiling light",
+    "price": 10,
+    "category": "electronics"
+  },
+  "7913748546": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Portable Washer/Dryer Twin Tub Washing Machine",
+    "price": 99,
+    "category": "electronics"
+  },
+  "7919081441": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Three light wall hung light bar",
+    "price": 35,
+    "category": "electronics"
+  },
+  "7918170328": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Out Side Light",
+    "price": 30,
+    "category": "electronics"
+  },
+  "7918170559": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Set of two outside lights",
+    "price": 25,
+    "category": "electronics"
+  },
+  "7918169751": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Three brass outside lights",
+    "price": 35,
+    "category": "electronics"
+  },
+  "7913991242": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Art Deco styled ceiling light",
+    "price": 20,
+    "category": "electronics"
+  },
+  "7913181264": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "3 -4 ft fluorescent metal boxed lights",
+    "price": 50,
+    "category": "electronics"
+  },
+  "7930427366": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Boston Acoustics CR75 Speakers + Yamaha RX-V440 Receiver",
+    "price": 199,
+    "category": "electronics"
+  },
+  "7901339867": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "16-in green enamel gas station light",
+    "price": 35,
+    "category": "electronics"
+  },
+  "7923834386": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Fujifilm FinePix S Digital Camera in Black",
+    "price": 150,
+    "category": "electronics"
+  },
+  "7896450281": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Do you need a new Microwave Oven?",
+    "price": 30,
+    "category": "electronics"
+  },
+  "7929590155": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Don't miss out on a GiantTV from Herb's Private TV Advantage Showroom",
+    "price": 25,
+    "category": "electronics"
+  },
+  "7903730117": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "CUKTECH 10 Power Bank",
+    "price": 25,
+    "category": "electronics"
+  },
+  "7901717522": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Sharge 130W Power Bank (New open box!)",
+    "price": 60,
+    "category": "electronics"
+  },
+  "7901672817": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "High Speed USB Wall Charger Kit",
+    "price": 8,
+    "category": "electronics"
+  },
+  "7901200785": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Micro SD Card Adapter",
+    "price": 1,
+    "category": "electronics"
+  },
+  "7900993186": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Projection Alarm Clock with Indoor Temperature",
+    "price": 3,
+    "category": "electronics"
+  },
+  "7900983914": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Rosewill 3.5mm Headphones (New!)",
+    "price": 3,
+    "category": "electronics"
+  },
+  "7931424296": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Tripp Lite PDU PDU1215",
+    "price": 55,
+    "category": "electronics"
+  },
+  "7931423825": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "HP OfficeJet Pro 8600 Plus All-In-One Printer / Light Use + Extra XL Ink",
+    "price": 200,
+    "category": "electronics"
+  },
+  "7915155374": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "(9) Snell THX Speakers (4) XA1900c (3) XA1900 (2) SR-30 Rear Surrounds",
+    "price": 4500,
+    "category": "electronics"
+  },
+  "7914786998": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Carver C-16 Sonic Holography preamplifier preamp like new",
+    "price": 650,
+    "category": "electronics"
+  },
+  "7928935233": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "(2) Adcom GFA-565 Mono Block Amplifiers / Amp",
+    "price": 1300,
+    "category": "electronics"
+  },
+  "7915155152": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Audible Illusions Modulus 3 Tube Preamplifier",
+    "price": 1200,
+    "category": "electronics"
+  },
+  "7915155249": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Plinius M16L Line Stage Preamp",
+    "price": 1100,
+    "category": "electronics"
+  },
+  "7915155709": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "(2) Bryston 7B ST 500 watt mono block amplifiers",
+    "price": 2100,
+    "category": "electronics"
+  },
+  "7927007996": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Stereo Receiver Direct Drive Turn Cass. Desk Player Free 5 Speakers",
+    "price": 499,
+    "category": "electronics"
+  },
+  "7903389391": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Lenovo Yoga Tablet 8\" 60043 needs usb port replacement",
+    "price": 20,
+    "category": "electronics"
+  },
+  "7931422051": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Linn Sondek LP 12 Turntable With SME 3009 Tonearm & Valhalla PSU",
+    "price": 1650,
+    "category": "electronics"
+  },
+  "7918740072": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "1930s Keystone Model R-8 8mm Projector",
+    "price": 45,
+    "category": "electronics"
+  },
+  "7929408095": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Indoor security camera indoor outdoor speaker Google nest smart voice",
+    "price": 15,
+    "category": "electronics"
+  },
+  "7928221787": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Polk Audio Center Speaker CS175i",
+    "price": 20,
+    "category": "electronics"
+  },
+  "7931415653": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Sansui 8900Z Digital Quartz DC Stereo Amp (250 Watts, Phono Inputs)",
+    "price": 499,
+    "category": "electronics"
+  },
+  "7919857745": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Class personified in this solid Brass Desk Lamp: #AF42984",
+    "price": 39,
+    "category": "electronics"
+  },
+  "7930934295": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Harman Kardon AVR-347 HDMI 7.1 Surround Receiver w Remotes + Mic",
+    "price": 160,
+    "category": "electronics"
+  },
+  "7930921828": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage JVC KD-A66 Stereo Cassette Tape Player Recorder Deck Japan",
+    "price": 120,
+    "category": "electronics"
+  },
+  "7930915359": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Serviced Kenwood KR-8010 Silver Face 125 Watt Receiver Japan",
+    "price": 950,
+    "category": "electronics"
+  },
+  "7928455905": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Cambridge Soundworks Newton T100 Tower Speakers Kloss",
+    "price": 100,
+    "category": "electronics"
+  },
+  "7928380396": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Niles SPS-4 4 Way Stereo Speaker Selector Switch w Amp Protection",
+    "price": 25,
+    "category": "electronics"
+  },
+  "7928182387": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Philips DVP3355V Combo DVD Disc CD VHS VCR Video Tape Player Recorder",
+    "price": 80,
+    "category": "electronics"
+  },
+  "7928139018": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Technics SA-AX540 Stereo Receiver Phono Input",
+    "price": 40,
+    "category": "electronics"
+  },
+  "7928149724": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Magnavox CDC-784 CD Compact 5 Disc Player Changer Carousel",
+    "price": 40,
+    "category": "electronics"
+  },
+  "7927402035": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "The A-to-Z of Automotive Parts & Equipment",
+    "price": 15,
+    "category": "electronics"
+  },
+  "7927754074": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Silver Face Japan Sansui 210 Stereo Receiver for Parts Repair",
+    "price": 50,
+    "category": "electronics"
+  },
+  "7927518137": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Refurbished Realistic STA-21 Silver Face Stereo Phono Receiver",
+    "price": 120,
+    "category": "electronics"
+  },
+  "7927431177": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Silver Face Nikko NR-315 Stereo Receiver Japan Made",
+    "price": 120,
+    "category": "electronics"
+  },
+  "7927436740": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage JVC RV-B90 Kaboom Portable Stereo Radio CD Cassette Boombox",
+    "price": 140,
+    "category": "electronics"
+  },
+  "7927425664": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Pioneer Elite VSX45 4K Bluetooth Surround Receiver HDMI w Remote",
+    "price": 150,
+    "category": "electronics"
+  },
+  "7929877570": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "IKEA Lack shelving",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7929960829": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Glass top dining table",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7918239636": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Ergonomic Gaming Chair - Black/Gray",
+    "price": 45,
+    "category": "furniture"
+  },
+  "7919553301": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Stunning MidCentury Dresser/Bureau + Chest Set + Delivery!",
+    "price": 0,
+    "category": "furniture"
+  },
+  "7928324681": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Round Conference Table (42\")",
+    "price": 500,
+    "category": "furniture"
+  },
+  "7897988332": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Young kids / Toddler table and chairs",
+    "price": 45,
+    "category": "furniture"
+  },
+  "7931427375": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "teak bedroom set",
+    "price": 750,
+    "category": "furniture"
+  },
+  "7930869730": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage small child's oak school desk",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7928924193": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage wrought iron corner shelf",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7928923834": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Wrought iron end table",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7931425906": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Eames Lounge and Ottoman, Santos Palisander and Mohair, (Retail $8725)",
+    "price": 5350,
+    "category": "furniture"
+  },
+  "7927324014": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage mahogany oval picture frame with glass",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7925356749": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "VTG palm tree table lamp",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7925355316": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Six light chandelier",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7924212394": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage seabird",
+    "price": 20,
+    "category": "furniture"
+  },
+  "7917345697": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Five light chandelier",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7916865385": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Heavy iron wine rack 28 bottles",
+    "price": 50,
+    "category": "furniture"
+  },
+  "7914544310": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage mahogany bedroom vanity",
+    "price": 250,
+    "category": "furniture"
+  },
+  "7913991979": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Oriental Express Paris to Istanbul lamp",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7913991746": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "cane stools set of two",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7913991371": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage wrought iron corner shelf",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7913991206": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Hanging Hall light roughly 18 in",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7912822780": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Giant hand painted oil on canvas painting",
+    "price": 50,
+    "category": "furniture"
+  },
+  "7912458300": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Set of two 21-in tall stools",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7912458228": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Giant hand painted oil on canvas painting",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7911689486": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage mahogany bedroom vanity",
+    "price": 300,
+    "category": "furniture"
+  },
+  "7910940900": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage Amish rocking horse",
+    "price": 125,
+    "category": "furniture"
+  },
+  "7910940496": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Wrought iron patio plant holder",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7909475657": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "VTG palm tree table lamp",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7904170373": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Great white pelican",
+    "price": 50,
+    "category": "furniture"
+  },
+  "7894647853": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Great white pelican",
+    "price": 50,
+    "category": "furniture"
+  },
+  "7893495260": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Vintage small child's oak school desk",
+    "price": 35,
+    "category": "furniture"
+  },
+  "7929856384": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Mid Century modern teak serving/bar cart, '60s Danish vintage, 3 tier",
+    "price": 300,
+    "category": "furniture"
+  },
+  "7915309764": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Mitchell Gold + Bob Williams Hunter Sofa Couch + Delivery!",
+    "price": 0,
+    "category": "furniture"
+  },
+  "7919005230": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Brand New Wood Frame Majestic Round Mirror, Light Grey 39\"x39\"",
+    "price": 225,
+    "category": "furniture"
+  },
+  "7929055550": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Cherry Wood Storage Cabinet",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7919755852": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Assorted Nice Home Furniture, Sideboard, tables, bench, and more",
+    "price": 1,
+    "category": "furniture"
+  },
+  "7931416473": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "King Size Bedroom Set/OBO",
+    "price": 500,
+    "category": "furniture"
+  },
+  "7917892993": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "ANTIQUE VICTORIAN GOTHIC CHAIR",
+    "price": 100,
+    "category": "furniture"
+  },
+  "7930938664": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Playstation 5 Slim White Console with 1 PS5 game!",
+    "price": 0,
+    "category": "furniture"
+  },
+  "7929824526": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Tall \"Monster\" Chest Wayfair's \"Bernhardt\" 5 D rugged chest",
+    "price": 250,
+    "category": "furniture"
+  },
+  "7923132191": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Light Wheat Colored Solid Maple Modern Nightstand w/Drawer",
+    "price": 60,
+    "category": "furniture"
+  },
+  "7924345169": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Classic Old Fashioned Maple Desk- 3 Side Drawers, 1 Above Knee",
+    "price": 135,
+    "category": "furniture"
+  },
+  "7913584346": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Solid Wood White Coffee Table with Storage Drawer",
+    "price": 60,
+    "category": "furniture"
+  },
+  "7927591748": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Natural Maple Kitchen Island on Wheels, large Counter, 2 Drwrs, 2 door",
+    "price": 155,
+    "category": "furniture"
+  },
+  "7923873540": {
+    "first_seen": "2026-05-01T16:35:50Z",
+    "title": "Night Stand- white french prov style w/2 drawers & guilded lines",
     "price": 45,
     "category": "furniture"
   }
