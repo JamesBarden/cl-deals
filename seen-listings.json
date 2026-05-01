@@ -970,5 +970,77 @@
     "title": "Table",
     "price": 100,
     "category": "furniture"
+  },
+  "7931324573": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Klipsch KG2.2 75 W Floorstanding/Bookshelf Speakers",
+    "price": 259,
+    "category": "electronics"
+  },
+  "7931324488": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Vintage 70's Fisher Price Portable Record Player",
+    "price": 39,
+    "category": "electronics"
+  },
+  "7931324438": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Texas Instruments TI-84 Plus Graphing Calculator",
+    "price": 49,
+    "category": "electronics"
+  },
+  "7931324385": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "2x Numark PT-01 Portable Turntables",
+    "price": 159,
+    "category": "electronics"
+  },
+  "7931324358": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Tivoli iPAL AM/FM Rechargeable Portable Radio",
+    "price": 59,
+    "category": "electronics"
+  },
+  "7931324127": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Vintage Sherwood RA-1142 AM/FM Stereo Receiver",
+    "price": 60,
+    "category": "electronics"
+  },
+  "7927360571": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Down Feather Accent Pillows",
+    "price": 10,
+    "category": "furniture"
+  },
+  "7927364000": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Like New Memory Foam Mattress and Mattress Protector",
+    "price": 150,
+    "category": "furniture"
+  },
+  "7927361618": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Bedside Storage Table",
+    "price": 15,
+    "category": "furniture"
+  },
+  "7926294013": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Brenton Studio Computer Desk",
+    "price": 40,
+    "category": "furniture"
+  },
+  "7926292482": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Excellent Condition T Style Office Desk",
+    "price": 150,
+    "category": "furniture"
+  },
+  "7927362186": {
+    "first_seen": "2026-05-01T04:00:00Z",
+    "title": "Twin Sized Bed Frame",
+    "price": 40,
+    "category": "furniture"
   }
 }
