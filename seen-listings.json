@@ -5398,5 +5398,593 @@
     "title": "king and queen mattress and box springs",
     "price": 750,
     "category": "furniture"
+  },
+  "7930264904": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Canon Rebel XS Camera",
+    "price": 35,
+    "category": "pha"
+  },
+  "7915122891": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "DVD+/- R Discs, Slim Jewel Cases",
+    "price": 10,
+    "category": "pha"
+  },
+  "7915122809": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "DVD+/- R Discs, Slim Jewel Cases",
+    "price": 10,
+    "category": "pha"
+  },
+  "7904804895": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "HP Photosmart Printer",
+    "price": 10,
+    "category": "pha"
+  },
+  "7893215013": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Sunpak 5 Foot Monopod",
+    "price": 15,
+    "category": "pha"
+  },
+  "7917443212": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Glidecam XR-PRO Handheld Stabilizer",
+    "price": 120,
+    "category": "pha"
+  },
+  "7918973201": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Archer Infrared Photo Relay Alarm System",
+    "price": 45,
+    "category": "ela"
+  },
+  "7909241655": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Paradigm Studio cc 590 v5 center",
+    "price": 400,
+    "category": "ela"
+  },
+  "7928518224": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Yamaha RX Z7 Receiver",
+    "price": 250,
+    "category": "ela"
+  },
+  "7927007888": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Portable Ice Maker by Igloo",
+    "price": 69,
+    "category": "ela"
+  },
+  "7910766897": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "4 Mirage Nanosat speakers",
+    "price": 40,
+    "category": "ela"
+  },
+  "7906576413": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Epson Movie Mate Home Theater Projector",
+    "price": 99,
+    "category": "ela"
+  },
+  "7919666592": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Vacuum like the Professional Cleaners do",
+    "price": 29,
+    "category": "ela"
+  },
+  "7918419283": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Camb. Soundworks Satellite 2 way speakers",
+    "price": 49,
+    "category": "ela"
+  },
+  "7914446018": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "48 Series III + Bose AV35 Control Console",
+    "price": 249,
+    "category": "ela"
+  },
+  "7908760250": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Ninja Auto IQ Kitchen System",
+    "price": 119,
+    "category": "ela"
+  },
+  "7926843248": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Luxman R-114 Receiver & Technics SL-200 Turntable",
+    "price": 150,
+    "category": "ela"
+  },
+  "7921946572": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Yamaha TSR-7850 7.2 Channel Receiver",
+    "price": 399,
+    "category": "ela"
+  },
+  "7905237161": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Cuisinart Food Processor",
+    "price": 79,
+    "category": "ela"
+  },
+  "7931608718": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Canon AE-1 35mm film camera with Canon FD 50mm F1.4",
+    "price": 250,
+    "category": "ela"
+  },
+  "7931104848": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Boston Acoustics CR75 Speakers + Yamaha RX-V440 Receiver",
+    "price": 199,
+    "category": "ela"
+  },
+  "7908556884": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Brand New Flat Screen Swivel Wall Mount",
+    "price": 15,
+    "category": "ela"
+  },
+  "7922129990": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "HP OfficeJet Pro multifunction printer/scanner/copier",
+    "price": 20,
+    "category": "ela"
+  },
+  "7917404210": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Camb. Soundworks Satellite 2 way speakers",
+    "price": 49,
+    "category": "ela"
+  },
+  "7919669712": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "IRobot Roomba 17070 Robotic Vacuum Cleaner",
+    "price": 69,
+    "category": "ela"
+  },
+  "7931104420": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Sonos Connect S1 Wireless Home Audio Receiver",
+    "price": 149,
+    "category": "ela"
+  },
+  "7903399424": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Watch the Superbowl on a 90 2D-3D Giant TV",
+    "price": 399,
+    "category": "ela"
+  },
+  "7893337871": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Microwave Oven",
+    "price": 25,
+    "category": "ela"
+  },
+  "7911285709": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "JVCR-X44 Digital Synthesizer Stereo Receiver",
+    "price": 99,
+    "category": "ela"
+  },
+  "7922374980": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Do you need a printer or Laptop Desktop Computer or Monitor",
+    "price": 30,
+    "category": "ela"
+  },
+  "7931607192": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Vintage turntable",
+    "price": 25,
+    "category": "ela"
+  },
+  "7900929404": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "GE Smart AC with 8100 BTU",
+    "price": 219,
+    "category": "ela"
+  },
+  "7927638658": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Two 8000 BTU ACS both for 99",
+    "price": 99,
+    "category": "ela"
+  },
+  "7927259583": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Automotive Parts & Equipment",
+    "price": 15,
+    "category": "ela"
+  },
+  "7913000721": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Portable Washer/Dryer Twin Tub Washing Machine",
+    "price": 99,
+    "category": "ela"
+  },
+  "7903967598": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Watch the SuperBowl Football Game on 90 2D-3D-UHD TV",
+    "price": 399,
+    "category": "ela"
+  },
+  "7926800917": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Stereo Receiver Direct Drive Turn Cassette Desk Player",
+    "price": 499,
+    "category": "ela"
+  },
+  "7901561523": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "2 NIB Triangle Comete speakers 1 Voce Center",
+    "price": 1100,
+    "category": "ela"
+  },
+  "7906007579": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Toshiba 19-inch Small screen TV",
+    "price": 30,
+    "category": "ela"
+  },
+  "7931604722": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Uniden Bearcat 125AT Handheld Portable 500 Channel Scanner",
+    "price": 65,
+    "category": "ela"
+  },
+  "7925155299": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Garmin nuvi 2460 with voice command and lifetime maps",
+    "price": 34,
+    "category": "ela"
+  },
+  "7928490374": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Barbie",
+    "price": 5,
+    "category": "ela"
+  },
+  "7925625998": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Spytec A119 GPS Logger 1080p Car Dashboard Camera",
+    "price": 40,
+    "category": "ela"
+  },
+  "7912530944": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Jabra Wireless Headset",
+    "price": 35,
+    "category": "ela"
+  },
+  "7931600865": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Speaker Cables Heavy Gauge Copper Stranded",
+    "price": 15,
+    "category": "ela"
+  },
+  "7924469376": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Sony SS-SRP36S audio speaker",
+    "price": 25,
+    "category": "ela"
+  },
+  "7899855128": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Kodak Digital Camera Case/Sleeve",
+    "price": 10,
+    "category": "ela"
+  },
+  "7916357789": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Handlebar Mount / Post Mount Smart Phone Holder",
+    "price": 10,
+    "category": "ela"
+  },
+  "7931611051": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Rectangular Table",
+    "price": 90,
+    "category": "fua"
+  },
+  "7904556501": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Sealy hybrid Medina firm full mattress",
+    "price": 100,
+    "category": "fua"
+  },
+  "7931610866": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "2 black Night stand Or Square Shelf",
+    "price": 45,
+    "category": "fua"
+  },
+  "7931610828": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Solid Wood side table/Night stand",
+    "price": 60,
+    "category": "fua"
+  },
+  "7931610767": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Rounded Desk",
+    "price": 110,
+    "category": "fua"
+  },
+  "7931610646": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Vintage Queen bed Head board",
+    "price": 150,
+    "category": "fua"
+  },
+  "7931610617": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Coffee table Or File Cabinet night Stand",
+    "price": 90,
+    "category": "fua"
+  },
+  "7931610594": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Rustic Coffee Table",
+    "price": 150,
+    "category": "fua"
+  },
+  "7931610498": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Patio Table, Natural Stone",
+    "price": 450,
+    "category": "fua"
+  },
+  "7931610468": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Folding Side Table",
+    "price": 25,
+    "category": "fua"
+  },
+  "7931610389": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Living room set - Sleeper Sofa with Loveseat & Chair",
+    "price": 250,
+    "category": "fua"
+  },
+  "7931610328": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Folding Counter Height Chairs",
+    "price": 95,
+    "category": "fua"
+  },
+  "7931610324": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "New Antique 2 Chairs Real Wood and Antique Table Set",
+    "price": 0,
+    "category": "fua"
+  },
+  "7931610240": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Nursery Glider",
+    "price": 70,
+    "category": "fua"
+  },
+  "7931610143": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Twin Slatted bed base",
+    "price": 50,
+    "category": "fua"
+  },
+  "7931610099": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Spring mattress for extendable bed",
+    "price": 100,
+    "category": "fua"
+  },
+  "7925551859": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "2 Mid Century style Black Lacquered Chinoiserie Armchairs",
+    "price": 500,
+    "category": "fua"
+  },
+  "7930252153": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Solid pine desk and chair",
+    "price": 30,
+    "category": "fua"
+  },
+  "7922721470": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Foyer bench with storage",
+    "price": 30,
+    "category": "fua"
+  },
+  "7923740330": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Pine desk and chair",
+    "price": 30,
+    "category": "fua"
+  },
+  "7931609804": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Unique High Chair",
+    "price": 55,
+    "category": "fua"
+  },
+  "7931609775": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "High end velour swivel chair",
+    "price": 100,
+    "category": "fua"
+  },
+  "7931609745": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Kids Rocking Chair",
+    "price": 85,
+    "category": "fua"
+  },
+  "7931609719": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Bar high chairs",
+    "price": 30,
+    "category": "fua"
+  },
+  "7931609680": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "3 Counter Heights Chairs",
+    "price": 90,
+    "category": "fua"
+  },
+  "7900766234": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Spider Back Chair",
+    "price": 325,
+    "category": "fua"
+  },
+  "7905336059": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Great Amphora",
+    "price": 60,
+    "category": "fua"
+  },
+  "7902786251": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Beautiful antique poop chair",
+    "price": 60,
+    "category": "fua"
+  },
+  "7902780347": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Twin bed with night table",
+    "price": 200,
+    "category": "fua"
+  },
+  "7931608738": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Set of 3 white nesting tables",
+    "price": 100,
+    "category": "fua"
+  },
+  "7910903022": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Glass Table Top Desk Glass Protector",
+    "price": 50,
+    "category": "fua"
+  },
+  "7909571154": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Glass sliding doors for closets",
+    "price": 300,
+    "category": "fua"
+  },
+  "7920265676": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Butlers Table / Coffee Table w/ Bevelled Glass",
+    "price": 75,
+    "category": "fua"
+  },
+  "7906523700": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Windsor Spindle Back Chair",
+    "price": 20,
+    "category": "fua"
+  },
+  "7909628850": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Set of Four Upholstered Metal Chairs",
+    "price": 200,
+    "category": "fua"
+  },
+  "7928674211": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Asian Style Carved Wood Coffee Table",
+    "price": 100,
+    "category": "fua"
+  },
+  "7925830185": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Trundle bed twin kids",
+    "price": 450,
+    "category": "fua"
+  },
+  "7931607897": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Brand New Complete Luxury Velvet Living Room Set",
+    "price": 0,
+    "category": "fua"
+  },
+  "7926972890": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Mahogany Refurbished Dining Table",
+    "price": 400,
+    "category": "fua"
+  },
+  "7931606626": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Infinity tables/Mine shaft coffee tables",
+    "price": 1,
+    "category": "fua"
+  },
+  "7928319539": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Invacare G5000 Like New",
+    "price": 300,
+    "category": "fua"
+  },
+  "7930042475": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "ITALIAN MODERNIST 70s SET OF 4 CHAIRS",
+    "price": 400,
+    "category": "fua"
+  },
+  "7928113044": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Dough Bowl/Bread Bowl Large Pottery Barn",
+    "price": 40,
+    "category": "fua"
+  },
+  "7921814336": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Screen Asian Decorator Four Panel",
+    "price": 40,
+    "category": "fua"
+  },
+  "7931605534": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Set of 4 four chairs",
+    "price": 5,
+    "category": "fua"
+  },
+  "7931605439": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Gaming chair Asweets New",
+    "price": 20,
+    "category": "fua"
+  },
+  "7922693270": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Vintage 2 tier mahogany table",
+    "price": 200,
+    "category": "fua"
+  },
+  "7925803637": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Cherry chairs with no legs",
+    "price": 25,
+    "category": "fua"
+  },
+  "7931604184": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "2 Kings Fine Woodworking Adirondack Chairs",
+    "price": 850,
+    "category": "fua"
+  },
+  "7916184729": {
+    "first_seen": "2026-05-02T12:09:06Z",
+    "title": "Twin Emilia Metal Bed frame",
+    "price": 120,
+    "category": "fua"
   }
 }
