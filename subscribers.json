@@ -1,0 +1,10 @@
+{
+  "_doc": "Each subscriber receives emails for deals matching ALL their criteria (region AND category). Use [\"*\"] to match all values. Valid regions: boston, daytona, newhaven. Valid categories: photo, electronics, furniture.",
+  "subscribers": [
+    {
+      "email": "jamesmartinbarden@gmail.com",
+      "regions": ["*"],
+      "categories": ["*"]
+    }
+  ]
+}
