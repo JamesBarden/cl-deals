@@ -15298,5 +15298,47 @@
     "title": "Steelcase i2i Lounge Chair w/ Articulating Table",
     "price": 450,
     "category": "furniture"
+  },
+  "7932213782": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "Cerwin-Vega CVE18S Powered Subwoofer (1000W)",
+    "price": 900,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7932221958": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "Focusrite Clarett+ 8pre USB-C",
+    "price": 850,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7932272260": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "Roland HP704 Digital Piano",
+    "price": 2200,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932279221": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "Mason & Hamlin Baby Grand 1929",
+    "price": 8900,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932279976": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "Cannondale Synapse Carbon 54cm/105",
+    "price": 1000,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932286813": {
+    "first_seen": "2026-05-05T16:04:32Z",
+    "title": "1963 Fender Vibroverb clone",
+    "price": 1950,
+    "category": "instruments",
+    "region": "newhaven"
   }
 }
