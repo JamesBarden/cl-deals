@@ -15340,5 +15340,1384 @@
     "price": 1950,
     "category": "instruments",
     "region": "newhaven"
+  },
+  "7932362559": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Beacon Camera",
+    "price": 30,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7895388118": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Bilura compact extendable tripod West German",
+    "price": 25,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930781092": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage slide cases",
+    "price": 25,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930783941": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Kodak Universal Splicer",
+    "price": 50,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930782660": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage photo floor lamps",
+    "price": 150,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930781800": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Bell and Howell Viewer lens",
+    "price": 30,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930781411": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Kodak Timer",
+    "price": 39,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930783744": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Kodak Flash Holders",
+    "price": 15,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930783019": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Slide Viewer",
+    "price": 19,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930796711": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage 4 in 1 Premier Photo Easel",
+    "price": 25,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7930782228": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Kodak Movie Reels",
+    "price": 25,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7932389982": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Pinnacle PN-7 3-way Restored Speakers 140 Watts",
+    "price": 179,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932387215": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "NEW TerraMaster D1 SSD Plus 40Gbps M.2 NVMe SSD Aluminum M.2 Enclosure",
+    "price": 60,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932387112": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "CD AM FM STEREO BOOMBOX",
+    "price": 35,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932387041": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Sony DVD CD Video Player Cleaned Tested Demo Ready",
+    "price": 169,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932386168": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Sony DVP-NS725P CD and DVD Player Precision Cinema Progressive",
+    "price": 95,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7928192252": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Vintage Singer 301 Slant Needle Black Sewing Machine with Cabinet",
+    "price": 500,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7930669752": {
+    "first_seen": "2026-05-05T22:09:39Z",
+    "title": "Singer Sewing Machine 4525 with Storage Case Pedal Manual Accessories",
+    "price": 50,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7929398642": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "IKEA MALM Queen Size Bed Frame plus slatted base",
+    "price": 120,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932387326": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Folding childrens bed",
+    "price": 50,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932386793": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Brand New Luxury Oval Sintered Stone Coffee Table",
+    "price": 0,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7925983385": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "JEAN MICHEL FRANK CLUB CHAIR with great bones",
+    "price": 300,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7928199226": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Vintage sewing stool with storage under seat",
+    "price": 10,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7928198620": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Vintage sewing chair with storage under seat",
+    "price": 10,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932385464": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Prize Hybrid 10 inch King Firm Mattress from Bobs",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7931515860": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Magnussen Home Coffee Table Storage and Casters Lancaster Dovetail",
+    "price": 450,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7931513597": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Caitbrook King Size Bed with 8 Storage Drawers in Gray",
+    "price": 600,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932382543": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Childs Wood Rocking Chair",
+    "price": 20,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932381901": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "4 Office Chairs",
+    "price": 45,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932379928": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Herman Miller AO2 Office Cubicles Workstations",
+    "price": 0,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7926010929": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Crate and Barrel French Kitchen Small 55 inch Island",
+    "price": 849,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7910760341": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "New Mesh Task chair multi-function unopen box",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932390126": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "PROCRAFT 2U 12 Deep Rack Case",
+    "price": 75,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932388594": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "BLACKSTAR TUBE HEAD AMP",
+    "price": 425,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932388327": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "M-Audio Oxygen 25 3rd Generation USB MIDI Controller Like New",
+    "price": 110,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932388257": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "1946 Epiphone Triumph C Archtop Jazz Guitar",
+    "price": 2800,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932385687": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Brand New Galaxy Zenith 500SL Oblong Violin Case with Sudhaus Lock",
+    "price": 395,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932383708": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "FENDER STRAT GRAY",
+    "price": 1499,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7929323829": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Spector Legend 4 string bass for sale",
+    "price": 525,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7926075215": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Roland vocoder SVC-350 Rack mount",
+    "price": 1900,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7926071864": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Roland Juno 60",
+    "price": 2000,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932377686": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Turbosound iNSPIRE iP500 V1 300 watt 3-channel Portable Column PA padded case",
+    "price": 300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7895286694": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Ampero Stomp 2 Mp-300 red edition",
+    "price": 350,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7895926768": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Blackstar TVP-30 Guitar Amp with FS10 multifunction controller",
+    "price": 250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7906407101": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "NS Design Ned Steinberger NXT5a Radius Bass Guitar",
+    "price": 1250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7931799286": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "2007 Gibson Les Paul Standard Silverburst",
+    "price": 2750,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7924471914": {
+    "first_seen": "2026-05-05T22:10:14Z",
+    "title": "Bugera V22 Guitar Amp",
+    "price": 500,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7918779699": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Bike Rack for Car by Hollywood high quality fits most cars",
+    "price": 45,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932389049": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "2001 195 Trek 4900 Alpha Aluminum 24 Speed Hardtail MTB bike",
+    "price": 275,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932388499": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "1980-1981 Schwinn World Road Bike",
+    "price": 75,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932388044": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Diamondback Lustre 2 Mountain Bike",
+    "price": 140,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931909336": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Bike 18 Wheel Schwinn Amplify Kids Bike Runs Fine Great Condition",
+    "price": 25,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932386090": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Bike Trek Navigator 2.0 Higher End Hybrid Bike 21 Speed Rides Perfect",
+    "price": 150,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932385495": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Bike Huffy Once Upon A Time 16 Wheel Kids Bike With Training Wheels",
+    "price": 25,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931783972": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Boston Red Sox 2008 26 Logo Bike Mint Extremely Rare Mountain Bike",
+    "price": 400,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932385381": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Bike Trek 820 Mountain Track 18 Spd Mountain Bike All Gears Work Fine",
+    "price": 75,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7930432373": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Trek 820",
+    "price": 200,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7926089562": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Columbia Silver Ridge Mountain Bike",
+    "price": 60,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7923549147": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Elektra Cruiser Go Step Thru Electric Bike",
+    "price": 550,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931928442": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Girls Schwinn 16 Bicycle with Training Wheels",
+    "price": 30,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931821658": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Schwinn Paramount Series 3 PDG road bike 61cm frame",
+    "price": 325,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931821633": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Schwinn Paramount Series 5 PDG 57cm road bike",
+    "price": 375,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932328403": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Kenwood KT-45 AM FM Stereo Synthesizer Tuner",
+    "price": 45,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7932321374": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Alesis electronic drum kit",
+    "price": 250,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7904781760": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Theater Research TR-2810 Speakers tested",
+    "price": 55,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7906117849": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "GEARGO RV Surge Protectors 30 Amp RV",
+    "price": 20,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7920012582": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Rack monitor Lenovo ThinkVision P24q-30",
+    "price": 30,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7894989180": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Emerson LC320EMXF 32-inch TV LCD",
+    "price": 30,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7932250009": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "New All in one Speaker Charger Clock Light",
+    "price": 15,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7932218517": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Plasma Screen Display Panel Component Model S60FH-YE01",
+    "price": 30,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7915488904": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Baby Stroller Graco Quattro Tour",
+    "price": 25,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7932207854": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Copier and Paper shredder",
+    "price": 50,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7911446723": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "32-in Samsung television",
+    "price": 75,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7912684556": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "New in the box smart ring",
+    "price": 130,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7930134128": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Vizio",
+    "price": 45,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7927226160": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Altec Lansing 848A Vintage Pair of Speakers Possible trade",
+    "price": 2000,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7914426918": {
+    "first_seen": "2026-05-05T22:10:47Z",
+    "title": "Various pieces of vintage Stereo Equipment",
+    "price": 1235,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7927371596": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Beautiful Wood Fireplace mantle",
+    "price": 45,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932371654": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Bed Rail Bed Frame",
+    "price": 20,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7903162725": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Custom picture frames",
+    "price": 0,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7918676097": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Jamestown Dining Table and 6 Chair Set",
+    "price": 1200,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7929435917": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Hexagonal wood cabinet",
+    "price": 30,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7927577636": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Brand New Mattress",
+    "price": 250,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932356016": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Vintage SchoolDesk",
+    "price": 50,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7921785759": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Full mattress and box",
+    "price": 289,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932354534": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Quality twin mattrresses",
+    "price": 159,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932342222": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Winsome Mission 4-Tier Beech Wood Bookshelf with Slanted Shelf",
+    "price": 30,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7931357107": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "10 foot artificial tree with unique base",
+    "price": 250,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7896110331": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "2 bar stools reasonable offer",
+    "price": 250,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932311487": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Vintage Art Deco Brass Gentlemans Valey Stand with Cannon Ball Rack",
+    "price": 575,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932310930": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Rare Charming 1930s Art Deco Style Solid Oak Dining Table",
+    "price": 395,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932310623": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Vintage 1950s Unusual Sewing Table Side Table",
+    "price": 90,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932340762": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Evette brand clarinet",
+    "price": 40,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7927676995": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Crook tele and headstrong amp",
+    "price": 12345,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7930434178": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Bose L1 Model II",
+    "price": 1900,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7896285848": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "MXR phase 100",
+    "price": 90,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7928830175": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Teisco Kimberly Guitar",
+    "price": 300,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7928822347": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Danoblaster Built In Effects",
+    "price": 250,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7928814382": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Kramer DMZ 4000",
+    "price": 1300,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7932314395": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "VIP PIANO MOVING Florida Most Trusted White Glove Piano Movers",
+    "price": 0,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7931780612": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Donner Soprano Ukulele Mahogany 21 inch Beginner Kit",
+    "price": 99,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7932275878": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Pair JBL MRX 515 Passive",
+    "price": 500,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7921522541": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "DigiTech VX400 Vocal processor REDUCED",
+    "price": 115,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7922777521": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "GALLIEN-KRUEGER 400RB-III BLACKSTAR EDEN",
+    "price": 755,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7930624890": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Yamaha DTX 400K",
+    "price": 325,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7930625116": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Alesis 2000 watt powered speaker",
+    "price": 200,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7930625195": {
+    "first_seen": "2026-05-05T22:11:18Z",
+    "title": "Left Hand Wrath Deluxe",
+    "price": 325,
+    "category": "instruments",
+    "region": "daytona"
+  },
+  "7930458430": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "RALEIGH C40 aluminum frame comfort seat 700 series rims 21 speeds",
+    "price": 115,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7930442627": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "SCHWINN SIDEWINDER 24-in rims 21 speeds front suspension",
+    "price": 75,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7930450403": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "FIXIE BIKE 21 INCH FRAME FLIP FLOP HUB UPRIGHT RIDING TUNED UP",
+    "price": 100,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7929697629": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Proform Sport CX Exercise Bike PFEX33921.0 Push to Stop",
+    "price": 110,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7930684125": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "NEXT AVALON aluminum frame comfort series 7 speeds 26-in rims comfort seat",
+    "price": 75,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7930166595": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "SCHWINN SOLARA aluminum frame 700 series rims 14 speeds",
+    "price": 125,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7931169711": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "VINTAGE TREK Y3 aluminum full suspension frame 26-in rims 21 speeds",
+    "price": 199,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7902757894": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Mountain bike fuji folding",
+    "price": 200,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7929848796": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Beach cruiser",
+    "price": 50,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7929848045": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Beach cruiser",
+    "price": 50,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7929847085": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Beach cruiser",
+    "price": 100,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7928369305": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Beach cruiser",
+    "price": 150,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7921297986": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Vintage Jamis Boss Beach Cruiser",
+    "price": 300,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7910972458": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Mountain bike",
+    "price": 50,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7903184092": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Fuji sundance",
+    "price": 500,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7914673615": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Nikon D5500 Body Lens and Case",
+    "price": 375,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7919936501": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Sony home theater system",
+    "price": 100,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7913680598": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Leipzig Projector VINTAGE",
+    "price": 50,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7915925474": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Sage Pewter Golf bag Golf clubs picture frame",
+    "price": 20,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7916875451": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Huge Vintage Camera Slides And Accessories Collection Photography",
+    "price": 1,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7923299651": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Larick Movie Themed Trinket Dish",
+    "price": 10,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7929547116": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Ring Chime Pro",
+    "price": 25,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7895659352": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Photogenic PowerLight 1250 with Reflector Bulb Carrying Case",
+    "price": 150,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7906997294": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Huge Camera Collection 70 cameras plus lens",
+    "price": 1800,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7905477539": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Canon PowerShot G2 accessories plus HOYA 49mm Lens Filters",
+    "price": 35,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7927786525": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "NIKON 1 NIKKOR 10-30mm VR 40.5 LENS",
+    "price": 0,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7931327412": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Sankyo Model 460 Sound Super 8 Projector",
+    "price": 15,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7929213098": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Canon 600EX-RT Speedlite",
+    "price": 125,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7921357964": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Sigma Art 35 f1.4 for Nikon",
+    "price": 350,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7921357694": {
+    "first_seen": "2026-05-05T22:11:52Z",
+    "title": "Nikon 16-35",
+    "price": 300,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7931892950": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Silver Eagle D104 Power Desk Microphones pair",
+    "price": 40,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7921802266": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "HP LaserJet P2050dn Network Printer",
+    "price": 275,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7926157241": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Thiel CS 1.2 Coherent Speakers Black",
+    "price": 650,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7932343793": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "PAIR OF SONY SST 5500 SPEAKERS",
+    "price": 10,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7932341246": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Burhoe Acoustics single speaker",
+    "price": 25,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7898643351": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Sharp Stereo Cassette Recorder and Radio portable",
+    "price": 10,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7897677878": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Vintage Kenwood home stereo system with Speakers",
+    "price": 35,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7897673887": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Pair of Yamaha Speakers 140 watts",
+    "price": 20,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7910973633": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Digital WiFi Internet Component Radio Tuner",
+    "price": 125,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7911000271": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "AudioSource Analog Amplifier Stereo Power A Amplifier",
+    "price": 175,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7929236008": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Sony floor speakers",
+    "price": 225,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7904924575": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "portable mini projector",
+    "price": 25,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7930252507": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Sony Sub Woofer and Five Speakers",
+    "price": 100,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7932298801": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Magellan Roadmate 2520 new in box",
+    "price": 40,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7923372595": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Fluance Bipolar Surround Sound Speakers",
+    "price": 30,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7908178379": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Thomasville Entertainment Center",
+    "price": 75,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932387439": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Schwinn fitness Active 20 stationary bike",
+    "price": 150,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7922848115": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving sale round dining table with 5 suede parson chairs",
+    "price": 400,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7927250708": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving new pieces wall decor for living room kitchen accent pieces",
+    "price": 95,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7926687152": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving must sell Like new Shark 2in1 HighIQ hair dryer",
+    "price": 135,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7927246623": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving everything must go Staples like new ergonomic chair",
+    "price": 80,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7923867577": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving must sell Console half moon table with drawer",
+    "price": 55,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7922866146": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Moving must sell Nice TV stand in espresso color no assembly",
+    "price": 75,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932377898": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "9 ft round sun umbrella",
+    "price": 60,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7931877418": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "End table with drawer solid wood and heavy",
+    "price": 20,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7930057987": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Dining room table and 4 chairs",
+    "price": 125,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7930755800": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Solid Wood Ethan Allen Bookshelf with matching 2-piece Shelf Chest",
+    "price": 200,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7918652533": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Leather Love Seat",
+    "price": 450,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7910919841": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Dash and Albert runner",
+    "price": 30,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7918652174": {
+    "first_seen": "2026-05-05T22:12:24Z",
+    "title": "Asian Indian Theme Wall Hanging",
+    "price": 50,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7896654327": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Ibanez Artcore Electric Guitar AF 125-AMB HTF",
+    "price": 540,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7932367692": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Andreas Morelli The Emperor violin with ivory inlay",
+    "price": 7000,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7924555484": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "EPIPHONE LES-PAUL CLASSIC",
+    "price": 350,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7924584949": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "YAMAHA MG12XU 12-CHANNEL MIXER WITH USB AND EFFECTS",
+    "price": 350,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7924566767": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "TAKAMINE F-385 12-STRING",
+    "price": 400,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7924586646": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "CARVIN DC400 CUSTOM",
+    "price": 900,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7905500640": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Gold Schaller S Locks with Purple Strap",
+    "price": 5,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7927780440": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Vintage W.T. Armstrong Flute 104",
+    "price": 45,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7926807753": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Bluetooth speaker m90 40 watts Bugani",
+    "price": 45,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7924446165": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "RMS Guitar 40 watts SPEAKER only",
+    "price": 20,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7923867954": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Yamaha PSR 500M vintage piano keyboard synthesizer",
+    "price": 150,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7921674835": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Hercules Saxophone Alto Tenor stand",
+    "price": 30,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7921827847": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Universal black metal adjustable guitar stand",
+    "price": 10,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7919784137": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Sony Ericsson bluetooth wireless speaker",
+    "price": 25,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7919769994": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Wireless amplifier Plye model PWMA220BM",
+    "price": 35,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7932388813": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Moving must sell Schwinn fitness Active 20 stationary bike",
+    "price": 150,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7932361069": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Folding Razor Kick Scooter Fits in a backpack Great for around town",
+    "price": 20,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7932340493": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Giant Aluminum Frame Womens 21 Spd MTB Hybrid Trail Bicycle Excellent",
+    "price": 200,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7923483807": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Jamis Coda Elite NEW IN SEALED BOX Never Opened",
+    "price": 700,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7932245092": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Addmotor Motan M-80 ebike",
+    "price": 350,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7923259621": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "26 inch ladies Huffy Glacier 10 speed bike 18 inch frame",
+    "price": 50,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7929630647": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Very rare LA Cycles Big Mo chopper bike LOW RIDER REAL NICE",
+    "price": 225,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7924115380": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "VINTAGE MENS PHILLIPS 3 SPEED BIKE 23 INCH FRAME MADE IN ENGLAND",
+    "price": 45,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7924558370": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "26 inch ladies Phatt Daisy Beach Cruiser no speeds foot brake",
+    "price": 65,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7927020406": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "ALL KIDS BIKES 50",
+    "price": 1,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7930899405": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "TREK 220 MT VG Condition From Wheel Works",
+    "price": 140,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7930899347": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "GIANT BOULDER Very Good Condition From Bike Shop",
+    "price": 190,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7930668433": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "TREK 3700 Like New Condition From Zanes Cycles",
+    "price": 225,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7929878301": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Bike Bicycle",
+    "price": 20,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7929878158": {
+    "first_seen": "2026-05-05T22:12:58Z",
+    "title": "Bike Bicycle",
+    "price": 20,
+    "category": "bikes",
+    "region": "newhaven"
   }
 }
