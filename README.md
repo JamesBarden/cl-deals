@@ -4,13 +4,13 @@ A Claude Code scheduled routine that scans Craigslist across multiple regions ev
 
 ## What it does
 
-- **Scans** the `photo`, `electronics`, and `furniture` categories across `boston`, `daytona`, and `newhaven` Craigslist sites
+- **Scans** the `photo`, `electronics`, `furniture`, `instruments`, and `bikes` categories across `boston`, `daytona`, and `newhaven` Craigslist sites
 - **Qualifies** a listing only when *all* hold:
   - Asking price ≤ 40% of estimated used market value
   - Absolute savings ≥ $200
   - Posted within the last 24h
   - Passes a scam screen (≥30-word description for items >$200; no deposit/Zelle/wire/shipping/overseas signals)
-- **Estimates market value** with eBay sold comps, MPB, AptDeco, Chairish, etc., adjusted by a condition factor (×0.50 good, ×0.65 like-new)
+- **Estimates market value** with eBay sold comps, MPB, AptDeco, Chairish, Reverb (instruments), and BicycleBlueBook / pinkbike (bikes), adjusted by a condition factor (×0.50 good, ×0.65 like-new)
 - **Emails** each qualifying deal to subscribers whose `regions` and `categories` in `subscribers.json` both match
 - **Commits** every run — with a digest when deals are found, state-only otherwise
 

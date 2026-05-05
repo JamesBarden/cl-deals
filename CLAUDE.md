@@ -20,13 +20,13 @@ A listing qualifies only if **all** hold:
 - Posted within the last 24h
 - Passes scam screen (notably: ≥30-word description for items >$200; no deposit/Zelle/wire/shipping/overseas signals)
 
-The condition factor (×0.50 good, ×0.65 like-new, etc.) and market reference comps (eBay sold, MPB, AptDeco, Chairish) are documented inline in each digest's "Methodology check" section. Match that format if you write a digest by hand.
+The condition factor (×0.50 good, ×0.65 like-new, etc.) and market reference comps are documented inline in each digest's "Methodology check" section. Comp sources by category: photo → MPB / KEH / eBay sold; furniture → AptDeco / Chairish / 1stDibs; electronics → eBay sold / Swappa; instruments → Reverb sold listings (the canonical source) / eBay sold; bikes → BicycleBlueBook / pinkbike buy-sell / The Pro's Closet / eBay sold. Match the digest format if you write one by hand.
 
 ## Regions and categories
 
 Per `subscribers.json`:
 - Regions: `boston`, `daytona`, `newhaven`
-- Categories: `photo`, `electronics`, `furniture`
+- Categories: `photo`, `electronics`, `furniture`, `instruments`, `bikes`
 - A subscriber receives a deal only if it matches **all** their criteria (region AND category). `["*"]` matches all values in that field.
 
 The README still says "Boston only" — it is out of date relative to subscribers.json. Trust subscribers.json.
