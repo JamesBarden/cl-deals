@@ -19,9 +19,17 @@ A Claude Code scheduled routine that scans Craigslist across multiple regions ev
 | Path | Purpose |
 |---|---|
 | `seen-listings.json` | Dedup state, keyed by Craigslist listing ID. Auto-managed — do not hand-edit. |
+| `scan-log.json` | Append-only log of every listing evaluated, with per-criteria pass/fail. Powers the dashboard. |
+| `index.html` | Static dashboard (sortable/filterable grid of every scanned listing). Served via GitHub Pages. |
 | `digests/digest-YYYY-MM-DD-HH.md` | One file per run that produced qualifying deals, including a methodology check per listing. |
 | `subscribers.json` | Email routing. Each subscriber lists `regions` and `categories`; `["*"]` matches all values. |
 | `CLAUDE.md` | Guidance for Claude Code instances working in this repo. |
+
+## Dashboard
+
+`index.html` is a single-file dashboard that fetches `scan-log.json` and renders every listing the routine has evaluated, with a colored pass/fail bar for each qualifying criterion. Useful for spot-checking near-misses (listings that passed 3 of 4 criteria but didn't make the cut) and sanity-checking the scam classifier.
+
+To publish: enable GitHub Pages on this repo (Settings → Pages → Source: `main` branch, `/` root). The dashboard will be at `https://<user>.github.io/cl-deals/`.
 
 ## Subscribing
 

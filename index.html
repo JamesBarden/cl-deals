@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>cl-deals scan log</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --panel: #161b22;
+    --panel-2: #1f2630;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --link: #58a6ff;
+    --pass: #2ea043;
+    --pass-dim: #1f5132;
+    --fail: #cf222e;
+    --fail-dim: #5a1015;
+    --accent: #d29922;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 13px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  }
+  header {
+    padding: 18px 24px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  header .meta {
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .stats {
+    display: flex;
+    gap: 24px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .stat .v { font-size: 16px; font-weight: 600; }
+  .stat .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .controls {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 12px 24px;
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .controls select, .controls input {
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 5px 8px;
+    font: inherit;
+  }
+  .controls input { min-width: 220px; }
+  .controls .spacer { flex: 1; }
+  .controls .count { color: var(--muted); align-self: center; font-size: 12px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  thead th {
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+    padding: 8px 10px;
+    text-align: left;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  thead th .arrow { opacity: 0.4; margin-left: 3px; }
+  thead th.sorted .arrow { opacity: 1; color: var(--accent); }
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+  }
+  tbody tr:hover { background: var(--panel); }
+  tbody td {
+    padding: 6px 10px;
+    vertical-align: top;
+  }
+  td.title {
+    max-width: 380px;
+  }
+  td.title a {
+    color: var(--link);
+    text-decoration: none;
+  }
+  td.title a:hover { text-decoration: underline; }
+  td.title .desc {
+    color: var(--muted);
+    font-size: 11px;
+    margin-top: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  td.num {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  td.crit {
+    text-align: center;
+    padding: 0;
+    width: 1%;
+  }
+  .bar {
+    display: inline-block;
+    width: 28px;
+    height: 16px;
+    border-radius: 3px;
+    line-height: 16px;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+  }
+  .bar.pass { background: var(--pass); }
+  .bar.fail { background: var(--fail); }
+  .bar.na { background: var(--panel-2); color: var(--muted); }
+  .badge {
+    display: inline-block;
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: var(--panel-2);
+    font-size: 11px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .badge.qualified { background: var(--pass-dim); color: #7ee787; }
+  .empty {
+    padding: 60px 24px;
+    text-align: center;
+    color: var(--muted);
+  }
+  .empty code {
+    background: var(--panel);
+    padding: 2px 6px;
+    border-radius: 3px;
+    color: var(--text);
+  }
+  footer.pager {
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-top: 1px solid var(--border);
+  }
+  footer.pager button {
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 4px 10px;
+    cursor: pointer;
+    font: inherit;
+  }
+  footer.pager button:disabled { opacity: 0.4; cursor: default; }
+  footer.pager .info { color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>cl-deals scan log</h1>
+  <div class="meta" id="meta">loading…</div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<section class="controls">
+  <select id="region-filter"><option value="">all regions</option></select>
+  <select id="category-filter"><option value="">all categories</option></select>
+  <select id="status-filter">
+    <option value="">all listings</option>
+    <option value="qualified">qualified only</option>
+    <option value="near">near-miss (passed ≥3 criteria)</option>
+    <option value="failed">failed</option>
+  </select>
+  <input id="search" placeholder="search title or description…">
+  <span class="spacer"></span>
+  <span class="count" id="count"></span>
+</section>
+
+<table id="grid">
+  <thead>
+    <tr>
+      <th data-sort="scanned_at">scanned <span class="arrow">▾</span></th>
+      <th data-sort="region">region <span class="arrow">▾</span></th>
+      <th data-sort="category">category <span class="arrow">▾</span></th>
+      <th data-sort="title">title <span class="arrow">▾</span></th>
+      <th data-sort="listing_price" class="num">price <span class="arrow">▾</span></th>
+      <th data-sort="market_price" class="num">market <span class="arrow">▾</span></th>
+      <th data-sort="savings_pct" class="num">% of mkt <span class="arrow">▾</span></th>
+      <th data-sort="c_24h" title="posted within last 24 hours">≤24h <span class="arrow">▾</span></th>
+      <th data-sort="c_30d" title="posted within last 30 days">≤30d <span class="arrow">▾</span></th>
+      <th data-sort="c_pct" title="≤40% of market price">≤40% <span class="arrow">▾</span></th>
+      <th data-sort="c_save" title="≥$200 absolute savings">≥$200 <span class="arrow">▾</span></th>
+      <th data-sort="c_scam" title="passed scam screen">not scam <span class="arrow">▾</span></th>
+      <th data-sort="qualified">status <span class="arrow">▾</span></th>
+    </tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<footer class="pager">
+  <button id="prev">← prev</button>
+  <button id="next">next →</button>
+  <span class="info" id="page-info"></span>
+</footer>
+
+<script>
+const PAGE_SIZE = 100;
+let data = [];
+let view = [];
+let sortKey = 'scanned_at';
+let sortDir = -1; // -1 desc, 1 asc
+let page = 0;
+
+const $ = (id) => document.getElementById(id);
+
+function fmtDate(s) {
+  if (!s) return '';
+  const d = new Date(s);
+  if (isNaN(d)) return s;
+  return d.toISOString().slice(0, 16).replace('T', ' ');
+}
+
+function fmtMoney(n) {
+  if (n == null || n === '') return '';
+  return '$' + Math.round(n).toLocaleString();
+}
+
+function fmtPct(n) {
+  if (n == null || n === '') return '';
+  return Math.round(n * 100) + '%';
+}
+
+function bar(v) {
+  if (v === true) return '<span class="bar pass">✓</span>';
+  if (v === false) return '<span class="bar fail">✗</span>';
+  return '<span class="bar na">–</span>';
+}
+
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function critCount(row) {
+  const c = row.criteria || {};
+  let n = 0;
+  if (c.posted_within_24h === true) n++;
+  if (c.under_40pct_market === true) n++;
+  if (c.savings_over_200 === true) n++;
+  if (c.scam_screen_passed === true) n++;
+  return n;
+}
+
+function applyFilters() {
+  const region = $('region-filter').value;
+  const category = $('category-filter').value;
+  const status = $('status-filter').value;
+  const q = $('search').value.trim().toLowerCase();
+
+  view = data.filter(r => {
+    if (region && r.region !== region) return false;
+    if (category && r.category !== category) return false;
+    if (status === 'qualified' && !r.qualified) return false;
+    if (status === 'failed' && r.qualified) return false;
+    if (status === 'near' && (r.qualified || critCount(r) < 3)) return false;
+    if (q) {
+      const hay = ((r.title || '') + ' ' + (r.description_excerpt || '')).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  view.sort((a, b) => {
+    let av, bv;
+    if (sortKey === 'c_24h')      { av = a.criteria?.posted_within_24h; bv = b.criteria?.posted_within_24h; }
+    else if (sortKey === 'c_30d') { av = a.criteria?.posted_within_30d; bv = b.criteria?.posted_within_30d; }
+    else if (sortKey === 'c_pct') { av = a.criteria?.under_40pct_market; bv = b.criteria?.under_40pct_market; }
+    else if (sortKey === 'c_save'){ av = a.criteria?.savings_over_200; bv = b.criteria?.savings_over_200; }
+    else if (sortKey === 'c_scam'){ av = a.criteria?.scam_screen_passed; bv = b.criteria?.scam_screen_passed; }
+    else { av = a[sortKey]; bv = b[sortKey]; }
+    if (av == null && bv == null) return 0;
+    if (av == null) return 1;
+    if (bv == null) return -1;
+    if (av < bv) return -1 * sortDir;
+    if (av > bv) return  1 * sortDir;
+    return 0;
+  });
+
+  page = 0;
+  render();
+}
+
+function render() {
+  const tbody = $('rows');
+  $('count').textContent = view.length.toLocaleString() + ' of ' + data.length.toLocaleString();
+
+  if (view.length === 0) {
+    if (data.length === 0) {
+      tbody.innerHTML = '<tr><td colspan="13" class="empty">No scan data yet. The next routine run will populate <code>scan-log.json</code>.</td></tr>';
+    } else {
+      tbody.innerHTML = '<tr><td colspan="13" class="empty">No listings match your filters.</td></tr>';
+    }
+    $('page-info').textContent = '';
+    $('prev').disabled = true;
+    $('next').disabled = true;
+    return;
+  }
+
+  const start = page * PAGE_SIZE;
+  const end = Math.min(start + PAGE_SIZE, view.length);
+  const rows = view.slice(start, end);
+
+  tbody.innerHTML = rows.map(r => {
+    const c = r.criteria || {};
+    const url = r.url || '#';
+    return `<tr>
+      <td>${escapeHtml(fmtDate(r.scanned_at))}</td>
+      <td><span class="badge">${escapeHtml(r.region || '')}</span></td>
+      <td><span class="badge">${escapeHtml(r.category || '')}</span></td>
+      <td class="title">
+        <a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(r.title || '(untitled)')}</a>
+        ${r.description_excerpt ? `<div class="desc">${escapeHtml(r.description_excerpt)}</div>` : ''}
+      </td>
+      <td class="num">${fmtMoney(r.listing_price)}</td>
+      <td class="num">${fmtMoney(r.market_price)}</td>
+      <td class="num">${fmtPct(r.savings_pct)}</td>
+      <td class="crit">${bar(c.posted_within_24h)}</td>
+      <td class="crit">${bar(c.posted_within_30d)}</td>
+      <td class="crit">${bar(c.under_40pct_market)}</td>
+      <td class="crit">${bar(c.savings_over_200)}</td>
+      <td class="crit">${bar(c.scam_screen_passed)}</td>
+      <td>${r.qualified ? '<span class="badge qualified">qualified</span>' : `<span class="badge">${critCount(r)}/4</span>`}</td>
+    </tr>`;
+  }).join('');
+
+  $('page-info').textContent = `${start + 1}–${end} of ${view.length.toLocaleString()}`;
+  $('prev').disabled = page === 0;
+  $('next').disabled = end >= view.length;
+
+  document.querySelectorAll('thead th').forEach(th => {
+    th.classList.toggle('sorted', th.dataset.sort === sortKey);
+    const arrow = th.querySelector('.arrow');
+    if (arrow) arrow.textContent = th.dataset.sort === sortKey ? (sortDir === 1 ? '▴' : '▾') : '▾';
+  });
+}
+
+function buildFilterOptions() {
+  const regions = [...new Set(data.map(r => r.region).filter(Boolean))].sort();
+  const cats = [...new Set(data.map(r => r.category).filter(Boolean))].sort();
+  const rf = $('region-filter');
+  const cf = $('category-filter');
+  for (const r of regions) rf.insertAdjacentHTML('beforeend', `<option>${escapeHtml(r)}</option>`);
+  for (const c of cats) cf.insertAdjacentHTML('beforeend', `<option>${escapeHtml(c)}</option>`);
+}
+
+function buildStats() {
+  const total = data.length;
+  const qualified = data.filter(r => r.qualified).length;
+  const near = data.filter(r => !r.qualified && critCount(r) >= 3).length;
+  const last = data.reduce((m, r) => (r.scanned_at && (!m || r.scanned_at > m)) ? r.scanned_at : m, null);
+
+  $('stats').innerHTML = `
+    <div class="stat"><span class="v">${total.toLocaleString()}</span><span class="l">listings logged</span></div>
+    <div class="stat"><span class="v">${qualified.toLocaleString()}</span><span class="l">qualified</span></div>
+    <div class="stat"><span class="v">${near.toLocaleString()}</span><span class="l">near-miss</span></div>
+    <div class="stat"><span class="v">${total ? ((qualified / total) * 100).toFixed(1) + '%' : '—'}</span><span class="l">qualify rate</span></div>
+    <div class="stat"><span class="v">${last ? fmtDate(last) : '—'}</span><span class="l">last scan</span></div>
+  `;
+  $('meta').textContent = total === 0
+    ? 'No data yet — populated automatically after each routine run.'
+    : `Updated after every scheduled run. Source: scan-log.json`;
+}
+
+async function load() {
+  try {
+    const res = await fetch('scan-log.json?t=' + Date.now());
+    data = await res.json();
+    if (!Array.isArray(data)) data = [];
+  } catch (e) {
+    data = [];
+    $('meta').textContent = 'Failed to load scan-log.json: ' + e.message;
+  }
+  buildFilterOptions();
+  buildStats();
+  applyFilters();
+}
+
+document.querySelectorAll('thead th').forEach(th => {
+  th.addEventListener('click', () => {
+    const k = th.dataset.sort;
+    if (sortKey === k) sortDir = -sortDir;
+    else { sortKey = k; sortDir = (k === 'scanned_at' || k.startsWith('c_') || k === 'qualified') ? -1 : 1; }
+    applyFilters();
+  });
+});
+['region-filter', 'category-filter', 'status-filter'].forEach(id => $(id).addEventListener('change', applyFilters));
+$('search').addEventListener('input', () => { clearTimeout(window._t); window._t = setTimeout(applyFilters, 150); });
+$('prev').addEventListener('click', () => { if (page > 0) { page--; render(); } });
+$('next').addEventListener('click', () => { page++; render(); });
+
+load();
+</script>
+
+</body>
+</html>

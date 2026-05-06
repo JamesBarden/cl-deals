@@ -8,9 +8,45 @@ There is **no application source code here**. This repo is the state store and o
 
 What lives here:
 - `seen-listings.json` — dedup state, keyed by Craigslist listing ID. Each entry: `{ first_seen, title, price, category }`. Append-only in practice; the routine reads it to skip listings already evaluated.
+- `scan-log.json` — append-only array of every listing the routine evaluated, with the per-criteria pass/fail breakdown. Powers the dashboard. One entry per *unique* listing (same dedup as `seen-listings.json`). See "Scan log schema" below.
+- `index.html` — static dashboard (vanilla JS) that fetches `scan-log.json` and renders a sortable, filterable grid. Designed to be served by GitHub Pages from the repo root.
 - `digests/digest-YYYY-MM-DD-HH.md` — one file per run **only when qualifying deals are found**. State-only runs produce no digest.
 - `subscribers.json` — email routing config (see below).
 - `README.md` — points humans at the routine.
+
+## Scan log schema
+
+Each entry in `scan-log.json` is appended once per listing — not once per run. Shape:
+
+```json
+{
+  "id": "7930290311",
+  "scanned_at": "2026-05-06T16:04:00Z",
+  "url": "https://boston.craigslist.org/...",
+  "region": "boston",
+  "category": "photo",
+  "title": "Canon 5D Mark IV body",
+  "description_excerpt": "first ~300 chars of the listing body",
+  "posted_at": "2026-05-06T14:00:00Z",
+  "listing_price": 800,
+  "market_price": 2500,
+  "condition_factor": 0.65,
+  "comp_source": "MPB / KEH / eBay sold",
+  "savings": 1700,
+  "savings_pct": 0.32,
+  "criteria": {
+    "posted_within_30d": true,
+    "posted_within_24h": true,
+    "under_40pct_market": true,
+    "savings_over_200": true,
+    "scam_screen_passed": true
+  },
+  "qualified": true,
+  "notes": "optional model commentary, especially for near-misses"
+}
+```
+
+`savings_pct` is `listing_price / market_price` (i.e. % of market — lower is better; `under_40pct_market` is true when this is ≤ 0.40). Unknown numeric fields should be `null`, not omitted, so the dashboard renders blanks instead of breaking sorts.
 
 ## The qualifying filter (encoded in the routine, surfaced in digests)
 
@@ -48,7 +84,7 @@ For non-routine commits (config, doc, subscriber edits), use a normal short impe
 ## Editing guidance
 
 - **Subscriber changes** are the most common manual edit. Validate region/category values against the enums above; the routine has no schema validation.
-- **Do not hand-edit `seen-listings.json`** unless removing a known-bad entry. It is large (~420KB) and routine-managed.
+- **Do not hand-edit `seen-listings.json` or `scan-log.json`** unless removing a known-bad entry. Both are routine-managed and grow over time.
 - **Do not delete old digests.** They are the historical record of what the routine surfaced.
 - **No build, no tests, no lint.** There is nothing to run locally. The only "execution" is the scheduled routine.
 - **Commit and push after every change.** When you modify any file in this repo (subscribers, README, CLAUDE.md, manual digest edits, etc.), commit the change with an appropriate message and `git push` before ending the turn. Use a short imperative subject for human-driven edits (e.g. `update subscribers`, `fix daytona region typo`); reserve the `Run YYYY-MM-DD HH:MM UTC: ...` format for routine-style runs only. Do not batch unrelated edits into one commit.
