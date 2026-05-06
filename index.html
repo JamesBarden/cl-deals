@@ -214,7 +214,7 @@
 <table id="grid">
   <thead>
     <tr>
-      <th data-sort="scanned_at">scanned <span class="arrow">▾</span></th>
+      <th data-sort="scanned_at">scanned (local) <span class="arrow">▾</span></th>
       <th data-sort="region">region <span class="arrow">▾</span></th>
       <th data-sort="category">category <span class="arrow">▾</span></th>
       <th data-sort="title">title <span class="arrow">▾</span></th>
@@ -252,7 +252,21 @@ function fmtDate(s) {
   if (!s) return '';
   const d = new Date(s);
   if (isNaN(d)) return s;
-  return d.toISOString().slice(0, 16).replace('T', ' ');
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  const hh = String(d.getHours()).padStart(2, '0');
+  const mm = String(d.getMinutes()).padStart(2, '0');
+  return `${y}-${m}-${day} ${hh}:${mm}`;
+}
+
+function tzLabel() {
+  try {
+    const parts = new Date().toLocaleTimeString('en-US', { timeZoneName: 'short' }).split(' ');
+    return parts[parts.length - 1];
+  } catch (e) {
+    return 'local';
+  }
 }
 
 function fmtMoney(n) {
@@ -406,8 +420,8 @@ function buildStats() {
     <div class="stat"><span class="v">${last ? fmtDate(last) : '—'}</span><span class="l">last scan</span></div>
   `;
   $('meta').textContent = total === 0
-    ? 'No data yet — populated automatically after each routine run.'
-    : `Updated after every scheduled run. Source: scan-log.json`;
+    ? `No data yet — populated automatically after each routine run. Times will be shown in ${tzLabel()}.`
+    : `Updated after every scheduled run. Times shown in ${tzLabel()}. Source: scan-log.json`;
 }
 
 async function load() {
