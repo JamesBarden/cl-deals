@@ -10,7 +10,7 @@ What lives here:
 - `seen-listings.json` — dedup state, keyed by Craigslist listing ID. Each entry: `{ first_seen, title, price, category }`. Append-only in practice; the routine reads it to skip listings already evaluated.
 - `scan-log.json` — append-only array of every listing the routine evaluated, with the per-criteria pass/fail breakdown. Powers the dashboard. One entry per *unique* listing (same dedup as `seen-listings.json`). See "Scan log schema" below.
 - `index.html` — static dashboard (vanilla JS) that fetches `scan-log.json` and renders a sortable, filterable grid. Designed to be served by GitHub Pages from the repo root.
-- `digests/digest-YYYY-MM-DD-HH.md` — one file per run **only when qualifying deals are found**. State-only runs produce no digest.
+- `digests/digest-YYYY-MM-DD-HH.md` — one file per run **only when qualifying deals are found** (timestamp components are America/New_York local time). State-only runs produce no digest.
 - `subscribers.json` — email routing config (see below).
 - `README.md` — points humans at the routine.
 
@@ -48,6 +48,8 @@ Each entry in `scan-log.json` is appended once per listing — not once per run.
 
 `savings_pct` is `listing_price / market_price` (i.e. % of market — lower is better; `under_40pct_market` is true when this is ≤ 0.40). Unknown numeric fields should be `null`, not omitted, so the dashboard renders blanks instead of breaking sorts.
 
+`scanned_at` and `posted_at` are stored as UTC ISO 8601 (the trailing `Z`). The dashboard converts to America/New_York local time for display; commit messages and digest filenames use local time directly. Keep the stored values UTC so sorts and inter-tool comparisons stay unambiguous.
+
 ## The qualifying filter (encoded in the routine, surfaced in digests)
 
 A listing qualifies only if **all** hold:
@@ -72,12 +74,16 @@ The README still says "Boston only" — it is out of date relative to subscriber
 The routine commits with this exact shape — match it for any automated/scripted run, including state-only runs:
 
 ```
-Run YYYY-MM-DD HH:MM UTC: N deals, X scanned[, took Mm Ss] (state only)
+Run YYYY-MM-DD HH:MM <TZ>: N deals, X scanned[, took Mm Ss] (state only)
 ```
 
-`(state only)` is omitted when a digest was produced. Examples from history:
-- `Run 2026-05-05 14:05 UTC: 0 deals, 162 scanned, took 14m 32s (state only)`
-- `Run 2026-05-05 02:55 UTC: 1 deal, 155 scanned`
+`<TZ>` is the America/New_York abbreviation at commit time — `EDT` in summer, `EST` in winter (the routine emits whichever applies via `TZ=America/New_York date '+%Z'`). `(state only)` is omitted when a digest was produced.
+
+Examples:
+- `Run 2026-05-06 14:05 EDT: 0 deals, 162 scanned, took 14m 32s (state only)`
+- `Run 2026-01-15 09:55 EST: 1 deal, 155 scanned`
+
+Older commits (through 2026-05-06) used `UTC` — that's expected. The cutover happened with a routine prompt edit on that date.
 
 For non-routine commits (config, doc, subscriber edits), use a normal short imperative subject — see `bf849ca`, `8f31e7c`.
 
@@ -87,4 +93,4 @@ For non-routine commits (config, doc, subscriber edits), use a normal short impe
 - **Do not hand-edit `seen-listings.json` or `scan-log.json`** unless removing a known-bad entry. Both are routine-managed and grow over time.
 - **Do not delete old digests.** They are the historical record of what the routine surfaced.
 - **No build, no tests, no lint.** There is nothing to run locally. The only "execution" is the scheduled routine.
-- **Commit and push after every change.** When you modify any file in this repo (subscribers, README, CLAUDE.md, manual digest edits, etc.), commit the change with an appropriate message and `git push` before ending the turn. Use a short imperative subject for human-driven edits (e.g. `update subscribers`, `fix daytona region typo`); reserve the `Run YYYY-MM-DD HH:MM UTC: ...` format for routine-style runs only. Do not batch unrelated edits into one commit.
+- **Commit and push after every change.** When you modify any file in this repo (subscribers, README, CLAUDE.md, manual digest edits, etc.), commit the change with an appropriate message and `git push` before ending the turn. Use a short imperative subject for human-driven edits (e.g. `update subscribers`, `fix daytona region typo`); reserve the `Run YYYY-MM-DD HH:MM <TZ>: ...` format for routine-style runs only. Do not batch unrelated edits into one commit.
