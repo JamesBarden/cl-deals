@@ -18630,5 +18630,446 @@
     "price": 75,
     "category": "bikes",
     "region": "newhaven"
+  },
+  "7932465943": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "7 (seven) horror DVDs",
+    "price": 5,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7916084521": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "REDUCED Vintage Photography Books 1939-1953",
+    "price": 95,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7925817227": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Nikon Z7ii W/Lens Battery and Charger",
+    "price": 2000,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7931152111": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Tripp Lite 12U Wall Mount Server Rack",
+    "price": 50,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7931668552": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Adcom GCD-600 CD Player",
+    "price": 50,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7904402770": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Sports Illustrated New England Patriots 2001 Super Bowl Champions",
+    "price": 70,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7908158007": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Garmin Drive 61",
+    "price": 100,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7930177747": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "2TB Seagate Expansion SSD Card for XBOX Series X/S Factory Sealed",
+    "price": 380,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7918665551": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "PlayStation Headphone with Mic Brand New Factory Sealed",
+    "price": 100,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7918665427": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Magellan eXplorist 310 GPS Brand New Sealed",
+    "price": 180,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7918665831": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Wifi Range Extender Brand New",
+    "price": 80,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7918665632": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "HDMI Cable 35feet",
+    "price": 60,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7918666064": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Honeywell Thermostat Brand New",
+    "price": 30,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7900667491": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Legare Pink Desk",
+    "price": 125,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932468428": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Leather Sofa and Loveseat",
+    "price": 300,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7929738536": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Clean colorful rug $10",
+    "price": 10,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932468125": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Thomasville Dining Room Set",
+    "price": 1550,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7929200901": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Table with 7 chairs and bench",
+    "price": 450,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7916463337": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Vintage Pottery Barn Reclaimed Wood Wrought Iron Side Table",
+    "price": 80,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7931146139": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "IKEA Rare Nils Stool Footstool",
+    "price": 20,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7911069760": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "4 Beautiful Hanging Framed Pictures",
+    "price": 15,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7930479819": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Beautiful Laminate Formica 6-Piece Bedroom Set",
+    "price": 1000,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7925858358": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Casio PX-130 keyboard",
+    "price": 375,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7908725440": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "MISSISSIPPI HARMONICA CO 40 HOLE REGAL HARMONICA",
+    "price": 20,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7931828686": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "ludwig drums drum set 70s vintage drum project 6pc zildjian paiste dw",
+    "price": 550,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932467653": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "FENDER VIBRO CHAMP TUBE AMP",
+    "price": 399,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932467499": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Donner Retro Wood DDP-80 Digital Piano 88 Key Weighted Like New",
+    "price": 340,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932466856": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Rickenbacker 330 jetglo MINT Collectors edition",
+    "price": 1955,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7904662062": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Gibson Custom Shop Les Paul 58 Reissue VOS",
+    "price": 3800,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7920480950": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Gibson Custom Shop Les Paul Standard 1956 Reissue VOS",
+    "price": 4250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7923140617": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Digital 88 Key Full Size Piano Keyboard Semi-Weighted Keys and Stand",
+    "price": 200,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7925255930": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Fender CD-60CE All Mahogany Acoustic Electric Guitar plus Fender Hardcase",
+    "price": 100,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7929535695": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "EPIPHONE E230TD INSPIRED BY JOHN LENNON NATURAL",
+    "price": 2599,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7926204487": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "80s Series 10 by Bentley Black Super Strat Electric Guitar",
+    "price": 75,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7900237975": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "EPIPHONE LES PAUL SLASH MODEL",
+    "price": 1099,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7928551131": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Univox U45B amplifier",
+    "price": 200,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7925339631": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Collectors Kiss Paul Stanley PS 600 Signature Mint",
+    "price": 0,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7920578484": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Raleigh Super Course Touring",
+    "price": 240,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7921952775": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Trek 620 Touring",
+    "price": 380,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7930681412": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Univega Specialissima Touring",
+    "price": 380,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931380097": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Bridgestone MB-3 MTB",
+    "price": 380,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7930598676": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Radio Flyer Steer and Stroll Tricycle",
+    "price": 25,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7894084742": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Nishiki Arroyo Mountain Bike",
+    "price": 85,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7919424984": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Trek MT220 Girls Mountain Bike",
+    "price": 60,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7902716882": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Vintage Schwinn Sprint Bike",
+    "price": 80,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7928286676": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Shogun Racing BMX Bike",
+    "price": 50,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7901655268": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Trek 820 Hybrid Step thru",
+    "price": 90,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7901655117": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Trek Navigator 200 Mountain Bike",
+    "price": 125,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7923777668": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Specialized Vita Sport Bicycle",
+    "price": 160,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7929676665": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "TREK 7100 Step Thru Hybrid",
+    "price": 160,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932465987": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Thumpstar presents the TSJ Balance bike new in box",
+    "price": 60,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7928536182": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Saris Bike Carrier",
+    "price": 135,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932469470": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Wood Glider Rocker Chair Cushioned Seat",
+    "price": 0,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7908095460": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "MATTRESS-BEDS-BEDS-BEDS",
+    "price": 489,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7932465971": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Futon",
+    "price": 250,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7931563466": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Bedroom Set",
+    "price": 750,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7902724286": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Coffee and End Table Set",
+    "price": 110,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7907398007": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Dining Room Set",
+    "price": 260,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7917520026": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "iron Outdoor Furniture Couch and Chair",
+    "price": 125,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932467616": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "Full Size 4 Post Pineapple Bed Dresser and Chest of Drawers Vintage",
+    "price": 995,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932467578": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "DISPLAY CASE All Glass 360 3 shelves and lighting",
+    "price": 395,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932467535": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "TABLE Round Coffee Hand Crafted Arts and Craft Style USA Like New",
+    "price": 250,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7932467261": {
+    "first_seen": "2026-05-06T00:00:00Z",
+    "title": "SONOR BASE DRUM FOOT PEDAL MINT 1968",
+    "price": 215,
+    "category": "instruments",
+    "region": "newhaven"
   }
 }
