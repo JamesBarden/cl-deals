@@ -27268,5 +27268,607 @@
     "price": 0,
     "category": "bikes",
     "region": "newhaven"
+  },
+  "7932714591": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Laser printer cartridges & intermittently-working printer",
+    "price": 25,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7927648446": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "The A-to-Z of Automotive Parts & Equipment to keep your car moving.",
+    "price": 15,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7928777509": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "iPad Pro 11 4th Gen 256GB Cellular + WiFi - $699 or Best offer",
+    "price": 699,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7919666511": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "AR Edge indoor outdoor stereo speakers",
+    "price": 70,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932706080": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "DC Power Supply - BK Precision",
+    "price": 150,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7928775240": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "iPad Air 4th Gen 256GB WiFi - $369 or Best offer",
+    "price": 369,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7916353751": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Five Sewing Machines for discounted sale.",
+    "price": 49,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932715162": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Walnut Parquet / checkerboard top mid century end / side table A64",
+    "price": 100,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932714703": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Wooden desk, hutch, and chair",
+    "price": 300,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7930725697": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Side/buffet table",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932710629": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Lamont 83\" Recessed Arm Sofa by AllModern",
+    "price": 400,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932125675": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Child's desk and chair",
+    "price": 95,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932123665": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Beautiful Wall Mirror",
+    "price": 650,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932123178": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "High-end, elegant hand tufted silk and wool rug",
+    "price": 315,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932708891": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Ethan Allen Legacy 44\" chest; Pd $1200 in '02; excellent condition",
+    "price": 850,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932705562": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Chairs",
+    "price": 10,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7895611501": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Walnut Mid Century Desk",
+    "price": 1400,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7895611928": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Mid Century Modern Walnut Tall Dresser",
+    "price": 1600,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932704410": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Brass Lucite and Glass Modern Coffee Table",
+    "price": 595,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7925347266": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Modern Farmhouse Vintage Industrial Stool",
+    "price": 125,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7925347528": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Modern Farmhouse Industrial Drafting Stool - VINTAGE",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7913985795": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Refinished Mid Century Dresser by Morganton",
+    "price": 1850,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7912567515": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "5 Dining Chairs by Edward Wormley for Drexel",
+    "price": 495,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932704042": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Refinished Mahogany and Brass Coffee Table Mid Century",
+    "price": 1350,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7915522489": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Mid Century Teak Dresser",
+    "price": 3200,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7912568291": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "56\" Refinished Walnut Mid Century Modern Dresser",
+    "price": 2250,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7899208244": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Dyna-lite 15' Head Extension cables",
+    "price": 35,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7899207947": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "DYNALITE SH2065v ROAD MAX 2000W Flash Heads",
+    "price": 150,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7927208436": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Guitar stuff",
+    "price": 150,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7928885272": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Guitar stuff",
+    "price": 399,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932234333": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Takamine EF360S 1978 Vintage",
+    "price": 800,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932234799": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Fender Squire 'Fat' Telecaster",
+    "price": 250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7931615949": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Roland JC-90 Jazz Chorus Guitar Combo Amplifier",
+    "price": 650,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7925576451": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Ahead Armor Cases Floor Tom Bag - 16x18-inch",
+    "price": 80,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7926144915": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "DW, Pearl, Gibraltar Boom Cymbal Stands",
+    "price": 100,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7922627406": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "DW Boom Cymbal Stand",
+    "price": 50,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7920046616": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Eastwood Airline '59 Custom 3P Deluxe Solid Body Electric Guitar",
+    "price": 950,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7919322593": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Sonor Vintage Series Vintage Pearl 18x16 Floor Tom",
+    "price": 850,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7918385547": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Yamaha Snare Drum Stand",
+    "price": 60,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7917929801": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Paiste 22 inch Signature Full Ride Cymbal",
+    "price": 550,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7919204534": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Tama Starclassic Walnut/Birch Arctic Blue Oyster 5.5x14 Snare Drum",
+    "price": 400,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7917687160": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Protection Racket 28\" Hardware Bag",
+    "price": 100,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7915739992": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Roland TD-25 Drum Sound Module",
+    "price": 600,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7915740306": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "DW 5500D Delta II 3-Leg Hi-Hat Stand",
+    "price": 300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7916173390": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Nash T-69TL Mahogany Hollow Body Electric Guitar with hard shell case",
+    "price": 2000,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7911742480": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Roland PD-108-BC V-Pad 10\" Dual Trigger Mesh Drum Pads",
+    "price": 700,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7911742514": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Slingerland White Tiger Pearl 22x14 Bass Drum",
+    "price": 500,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7911742614": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Pearl Masters MCX Maple 20x18 Bass Drum",
+    "price": 500,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7908576127": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Gretsch USA Custom Seafoam Green Gloss Drums",
+    "price": 2000,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7908575048": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Gretsch Marquee Satin Natural Maple 18x22 Bass Drum",
+    "price": 450,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7908574161": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Ludwig LAP22SS Atlas Pro Snare Stand",
+    "price": 100,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7906210897": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Boss GT-1000 Guitar Effects Processor",
+    "price": 900,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7906435266": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Yamaha Stage Custom Birch Natural Wood Drums",
+    "price": 600,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7904749613": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Ludwig Classic Maple Green Sparkle 16x16 Floor Tom",
+    "price": 700,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7906010160": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "PDP Concept Maple, Satin Black 13x9 tom",
+    "price": 200,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7904749542": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Vintage 80s Tama Superstar Cherrywine Birch 14x6.5 Snare Drum",
+    "price": 550,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7904749583": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Ludwig Classic Maple / Gretsch Renown Drums",
+    "price": 1300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7902748170": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Yamaha Crosstown Hardware Bag",
+    "price": 50,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7932240527": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Schwinn 16\" Bicycle",
+    "price": 25,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932240518": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Framed Impact BMX Bicycle",
+    "price": 75,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7927882945": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "1978 Peugeot 103 moped bike modified",
+    "price": 2500,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932711372": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Hybrid bike for fun and commuting - like new",
+    "price": 300,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7922684939": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Trek 7200 Hybrid",
+    "price": 140,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7924436579": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Specialized Hardrock Mountain Bike",
+    "price": 75,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931098621": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "JEEP Hybrid Mountain Bike Only",
+    "price": 138,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932706888": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "26\" TREK 920 21-speed mountain SM/ MED bike",
+    "price": 195,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7931370432": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Trek aluminum hybrid sport comfort bike XXL",
+    "price": 295,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932251305": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "XL Specialized 21-speed hybrid comfort bike",
+    "price": 195,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7910516291": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "2 GIANT Hybrid--Womens & Mens $150 Each",
+    "price": 150,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7930252745": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "CANNONDALE Hybrid",
+    "price": 250,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7932250584": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Road Bike Single Speed",
+    "price": 50,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7923737617": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Wood elevating coffee table",
+    "price": 60,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7921742382": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "new cariloha resort mattress twin xl retail$1499",
+    "price": 500,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7928870018": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Simmons Beauty Rest pillowtop Mattress",
+    "price": 125,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7923120021": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Christie DWU850-GS laser professional projector",
+    "price": 1500,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7923120317": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Honeywell HNMSE32C08T NVR Server MaxPro 32-Channel 8TB",
+    "price": 1000,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7911374492": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "All-new Amazon latest version Firestick 4K brand new UNLOCKED HD",
+    "price": 95,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7922809870": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "All-new Amazon Fire TVStick 16 GB 4K Max",
+    "price": 110,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7902152353": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "4K Max Fire TV Stick 16 GB Free P-P-V & live TV",
+    "price": 100,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7896648010": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "16GB Onn 4K Plus Streaming Device Movies, TV Shows & Live TV",
+    "price": 110,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7909476332": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Onn 4K Plus 16GB Streaming Device Movies, Live TV & TV shows",
+    "price": 110,
+    "category": "electronics",
+    "region": "newhaven"
+  },
+  "7900588878": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "TV Television Table W/ Glass Shelf",
+    "price": 40,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7927561528": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Beautiful Vintage Flower Living-room Side Chair",
+    "price": 150,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7927560646": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Amazing 98\" Demask Sofa Couch Excellent Condition!",
+    "price": 400,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7927094891": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Springer dog attachment for bike",
+    "price": 20,
+    "category": "bikes",
+    "region": "newhaven"
+  },
+  "7926960418": {
+    "first_seen": "2026-05-07T14:30:00Z",
+    "title": "Vintage Yerf Dog big wheel",
+    "price": 20,
+    "category": "bikes",
+    "region": "newhaven"
   }
 }
