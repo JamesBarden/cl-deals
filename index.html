@@ -223,7 +223,7 @@
       <th data-sort="savings_pct" class="num">% of mkt <span class="arrow">▾</span></th>
       <th data-sort="c_24h" title="posted within last 24 hours">≤24h <span class="arrow">▾</span></th>
       <th data-sort="c_30d" title="posted within last 30 days">≤30d <span class="arrow">▾</span></th>
-      <th data-sort="c_pct" title="≤40% of market price">≤40% <span class="arrow">▾</span></th>
+      <th data-sort="c_pct" title="≤40% of market price (hover null cells for tier-1 skip reason)">≤40% <span class="arrow">▾</span></th>
       <th data-sort="c_save" title="≥$200 absolute savings">≥$200 <span class="arrow">▾</span></th>
       <th data-sort="c_scam" title="passed scam screen">not scam <span class="arrow">▾</span></th>
       <th data-sort="qualified">status <span class="arrow">▾</span></th>
@@ -279,10 +279,22 @@ function fmtPct(n) {
   return Math.round(n * 100) + '%';
 }
 
-function bar(v) {
-  if (v === true) return '<span class="bar pass">✓</span>';
-  if (v === false) return '<span class="bar fail">✗</span>';
-  return '<span class="bar na">–</span>';
+function bar(v, tooltip) {
+  const t = tooltip ? ` title="${escapeHtml(tooltip)}"` : '';
+  if (v === true) return `<span class="bar pass"${t}>✓</span>`;
+  if (v === false) return `<span class="bar fail"${t}>✗</span>`;
+  return `<span class="bar na"${t}>–</span>`;
+}
+
+function skipReasonLabel(reason) {
+  if (!reason) return null;
+  const map = {
+    vague_title: 'Tier 1 dropped: title too vague to estimate market price',
+    rough_market_too_low: 'Tier 1 dropped: rough estimate >55% of market — too expensive to bother',
+    savings_below_floor: 'Tier 1 dropped (legacy rule, removed 2026-05-07): rough savings <$200',
+    not_assessed: 'Tier 1 invented this reason (bug, fixed 2026-05-07) — should have been evaluated',
+  };
+  return map[reason] || `Tier 1 dropped: ${reason}`;
 }
 
 function escapeHtml(s) {
@@ -366,6 +378,7 @@ function render() {
   tbody.innerHTML = rows.map(r => {
     const c = r.criteria || {};
     const url = r.url || '#';
+    const pctTooltip = c.under_40pct_market == null ? skipReasonLabel(r.tier1_skip_reason) : null;
     return `<tr>
       <td>${escapeHtml(fmtDate(r.scanned_at))}</td>
       <td><span class="badge">${escapeHtml(r.region || '')}</span></td>
@@ -379,7 +392,7 @@ function render() {
       <td class="num">${fmtPct(r.savings_pct)}</td>
       <td class="crit">${bar(c.posted_within_24h)}</td>
       <td class="crit">${bar(c.posted_within_30d)}</td>
-      <td class="crit">${bar(c.under_40pct_market)}</td>
+      <td class="crit">${bar(c.under_40pct_market, pctTooltip)}</td>
       <td class="crit">${bar(c.savings_over_200)}</td>
       <td class="crit">${bar(c.scam_screen_passed)}</td>
       <td>${r.qualified ? '<span class="badge qualified">qualified</span>' : `<span class="badge">${critCount(r)}/4</span>`}</td>

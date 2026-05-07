@@ -29,6 +29,9 @@ Each entry in `scan-log.json` is appended once per listing — not once per run.
   "description_excerpt": "first ~300 chars of the listing body",
   "posted_at": "2026-05-06T14:00:00Z",
   "listing_price": 800,
+  "rough_market_estimate": 2400,
+  "tier1_passed": true,
+  "tier1_skip_reason": null,
   "market_price": 2500,
   "condition_factor": 0.65,
   "comp_source": "MPB / KEH / eBay sold",
@@ -42,6 +45,7 @@ Each entry in `scan-log.json` is appended once per listing — not once per run.
     "scam_screen_passed": true
   },
   "qualified": true,
+  "near_miss_too_old": false,
   "notes": "optional model commentary, especially for near-misses"
 }
 ```
@@ -49,6 +53,15 @@ Each entry in `scan-log.json` is appended once per listing — not once per run.
 `savings_pct` is `listing_price / market_price` (i.e. % of market — lower is better; `under_40pct_market` is true when this is ≤ 0.40). Unknown numeric fields should be `null`, not omitted, so the dashboard renders blanks instead of breaking sorts.
 
 `scanned_at` and `posted_at` are stored as UTC ISO 8601 (the trailing `Z`). The dashboard converts to America/New_York local time for display; commit messages and digest filenames use local time directly. Keep the stored values UTC so sorts and inter-tool comparisons stay unambiguous.
+
+### Two-tier evaluation fields
+
+- `rough_market_estimate` — the routine's in-context (no-WebSearch) market guess from the title alone. Populated for every non-vague entry that reached Tier 1; null for `vague_title` skips and entries dropped before then.
+- `tier1_passed` — whether the listing survived the cheap pre-filter and got promoted to real comp lookup.
+- `tier1_skip_reason` — exhaustive enum: `"vague_title"` or `"rough_market_too_low"` when `tier1_passed` is false; null otherwise. Older entries (pre-2026-05-07) may also contain `"savings_below_floor"` (the Tier 1 absolute-savings pre-filter, removed because in-context market guesses were too conservative and dropped legitimate deals — the $200 rule still applies at final qualification using real Tier 2 comps) or the bug value `"not_assessed"` (agent invented this; fixed by banning it explicitly in the prompt). Neither value should appear on new entries. The dashboard surfaces the skip reason as a hover tooltip on the ≤40% column when it's null.
+- `near_miss_too_old` — true if the listing passes everything *except* the 24h recency rule (i.e., posted within 30d, ≤40% market, ≥$200 savings, scam screen passed). NOT emailed or digested — only surfaced on the dashboard so we can see whether the 24h rule is leaving real deals on the table.
+
+Only entries with `tier1_passed: true` will have `market_price`, `comp_source`, `savings`, `savings_pct`, `under_40pct_market`, or `savings_over_200` populated — the comp lookup runs only at Tier 2.
 
 ## The qualifying filter (encoded in the routine, surfaced in digests)
 
