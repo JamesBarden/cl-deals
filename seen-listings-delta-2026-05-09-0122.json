@@ -1,0 +1,58 @@
+{
+  "7933089255": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Picture Flowers",
+    "price": 10,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7933086059": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Bed room set",
+    "price": 500,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7933087419": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "26 inch Huffy Rock Creek Mountain Bike with Massive Accessory Bundle",
+    "price": 100,
+    "category": "bikes",
+    "region": "daytona"
+  },
+  "7933096834": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Manfrotto Three Axis Tripod Head",
+    "price": 30,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7933095757": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Manfrotto Heavy Duty 3-Axis Tripod Head",
+    "price": 35,
+    "category": "photo",
+    "region": "newhaven"
+  },
+  "7933095124": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Taylor 814ce with V-Class Bracing",
+    "price": 2699,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7933091448": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "Gretsch Guitar USA Vintage 1950s Model 6120",
+    "price": 16000,
+    "category": "instruments",
+    "region": "newhaven"
+  },
+  "7933095213": {
+    "first_seen": "2026-05-09T01:22:12Z",
+    "title": "E-Bike",
+    "price": 850,
+    "category": "bikes",
+    "region": "newhaven"
+  }
+}
