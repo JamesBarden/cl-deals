@@ -50760,5 +50760,239 @@
     "price": 75,
     "category": "instruments",
     "region": "newhaven"
+  },
+  "7932007827": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Dyson Cyclone V10 Pet Cordless Vacuum",
+    "price": 159,
+    "category": "electronics"
+  },
+  "7934914956": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Vintage Technics SL-D2 Turntable",
+    "price": 300,
+    "category": "electronics"
+  },
+  "7934914775": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Samsung SV-3000W VCR World Wide w/Remote, Tested Cleaned Demo",
+    "price": 299,
+    "category": "electronics"
+  },
+  "7934913006": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Technics Turntable SL-B200 - Cleaned, Lubricated, New Belt",
+    "price": 199,
+    "category": "electronics"
+  },
+  "7934911523": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Canon Color imageCLASS MF8280CW - WiFi Color Laser Multifunction",
+    "price": 60,
+    "category": "electronics"
+  },
+  "7907859674": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Swedish Cloud Chair - Designed by Lisa Widen",
+    "price": 300,
+    "category": "furniture"
+  },
+  "7907859728": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Swedish Cloud Chair - Designed by Lisa Widen",
+    "price": 300,
+    "category": "furniture"
+  },
+  "7934914299": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Colca Flatweave Wool Rug from West Elm",
+    "price": 149,
+    "category": "furniture"
+  },
+  "7934913140": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Genuine leather chair",
+    "price": 5,
+    "category": "furniture"
+  },
+  "7934912882": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Exquisite Hand-Made Oriental Rug",
+    "price": 1799,
+    "category": "furniture"
+  },
+  "7934240642": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Gloster Teak Chaise Lounge",
+    "price": 100,
+    "category": "furniture"
+  },
+  "7932110782": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Vintage Chinese Yokeback Dining Set (6)",
+    "price": 150,
+    "category": "furniture"
+  },
+  "7934165622": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Dark Wood Round Side Table with Drawer",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7934911117": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Amazon Dresser with 7 Drawers",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7925516625": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "Williams 4 Drawer Solid Wood Dresser-White",
+    "price": 399,
+    "category": "furniture"
+  },
+  "7925688128": {
+    "first_seen": "2026-05-17T16:05:41Z",
+    "title": "West Elm Kista wool rug 8 X 10",
+    "price": 549,
+    "category": "furniture"
+  },
+  "7934914270": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "LP Conga Drum 11.75\" in Vintage Sunburst",
+    "price": 199,
+    "category": "instruments"
+  },
+  "7928726839": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Fender Road Worn '50s Telecaster",
+    "price": 850,
+    "category": "instruments"
+  },
+  "7926350387": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Roland Drum Set",
+    "price": 190,
+    "category": "instruments"
+  },
+  "7924331729": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "VINTAGE 1963-1969 SLINGERLAND DRUM SET",
+    "price": 1200,
+    "category": "instruments"
+  },
+  "7934914387": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Trek 20 Precaliber Mountain Bike",
+    "price": 60,
+    "category": "bikes"
+  },
+  "7934914128": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Raleigh Chopper mk2 exc cond",
+    "price": 1200,
+    "category": "bikes"
+  },
+  "7934913560": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Trek FX 7.6 road bike, very good cond",
+    "price": 425,
+    "category": "bikes"
+  },
+  "7933185701": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Brand new Fuji Sanibel ebike with helmet and U-lock",
+    "price": 850,
+    "category": "bikes"
+  },
+  "7934911703": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Jamis Quest Men's Road Bike",
+    "price": 200,
+    "category": "bikes"
+  },
+  "7934910846": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Magna Excitor Full Suspension Mountain Bike",
+    "price": 60,
+    "category": "bikes"
+  },
+  "7934908454": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "Custom-Built De Bernardi Triathlon Bike for Sale",
+    "price": 500,
+    "category": "bikes"
+  },
+  "7922337921": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "TREK TOWNIE 3 step thru LIKE NEW fr. shock",
+    "price": 375,
+    "category": "bikes"
+  },
+  "7934907064": {
+    "first_seen": "2026-05-17T16:06:42Z",
+    "title": "NEXT Gauntlet 24\" Mountain Bike",
+    "price": 60,
+    "category": "bikes"
+  },
+  "7934916349": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "Twin mattress and boxspring",
+    "price": 100,
+    "category": "furniture"
+  },
+  "7898225317": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "New large carved sand dollar and starfish",
+    "price": 200,
+    "category": "furniture"
+  },
+  "7898225671": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "New triple mahi",
+    "price": 150,
+    "category": "furniture"
+  },
+  "7913514957": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "New hanging or tabletop coconut fish",
+    "price": 30,
+    "category": "furniture"
+  },
+  "7926185530": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "New large handcrafted stainless steel turtle",
+    "price": 135,
+    "category": "furniture"
+  },
+  "7933061430": {
+    "first_seen": "2026-05-17T16:08:59Z",
+    "title": "Chauvet 4bar Flex DJ / Band / Stage Lights / Lighting",
+    "price": 250,
+    "category": "instruments"
+  },
+  "7930683324": {
+    "first_seen": "2026-05-17T16:11:25Z",
+    "title": "MATTRESS, Full Size SERTA Box spring & frame MINT!",
+    "price": 800,
+    "category": "furniture"
+  },
+  "7934909199": {
+    "first_seen": "2026-05-17T16:11:25Z",
+    "title": "computer chair",
+    "price": 10,
+    "category": "furniture"
+  },
+  "7926833320": {
+    "first_seen": "2026-05-17T16:11:25Z",
+    "title": "Squire Strat Mini",
+    "price": 110,
+    "category": "instruments"
+  },
+  "7926830862": {
+    "first_seen": "2026-05-17T16:11:25Z",
+    "title": "Nishiki Century",
+    "price": 200,
+    "category": "bikes"
   }
 }
