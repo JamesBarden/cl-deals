@@ -52158,5 +52158,397 @@
     "price": 150,
     "category": "bikes",
     "region": "newhaven"
+  },
+  "7934971992": {
+    "first_seen": "2026-05-17T20:10:38Z",
+    "title": "Garmin Forerunner 245 Music",
+    "price": 75,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934971446": {
+    "first_seen": "2026-05-17T20:10:38Z",
+    "title": "Jabra Elite 3 earbuds",
+    "price": 20,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934073623": {
+    "first_seen": "2026-05-17T20:10:38Z",
+    "title": "Bose Soundock Speaker",
+    "price": 35,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7928771879": {
+    "first_seen": "2026-05-17T20:10:38Z",
+    "title": "Sony 85\" Bravia XR X90L LED 4K UHD Smart TV Google Tv",
+    "price": 700,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7917087402": {
+    "first_seen": "2026-05-17T20:10:38Z",
+    "title": "Fisher Speaker System Model STV-884",
+    "price": 199,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7933101549": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Polk Audio RM6750 Home Theater Powered Subwoofer",
+    "price": 95,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7922844451": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "TP-Link Archer A6 AC1200 Wireless MU-MIMO Smart WiFi Router",
+    "price": 25,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7926311637": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Polk Audio CS400 Home Theatre Center Speaker",
+    "price": 125,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7926310397": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "iRobot Roomba 595 Pet Series Robotic Vacuum Cleaner",
+    "price": 120,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7926311386": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "JBL Bass2 BassWave Powered 100 Watt Amplifier",
+    "price": 90,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7922844970": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Cerwin-Vega CMX-26 6.5\" Floor Speaker",
+    "price": 600,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934965723": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Epson VS345 H718A WXGA 3LCD Projector HDMI",
+    "price": 250,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934963988": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "RYOBI 0P40501 BATTERY 49V 5.Ah WITH RYOBI 0P401 CHARGER",
+    "price": 125,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934963657": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Micro Acoustics Pro-1 Tweeter Array Restored Tested Demo",
+    "price": 269,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934963612": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Cambridge Soundworks Newton Series Theater Speaker System",
+    "price": 499,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934963578": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Kenwood AR-404 AM/FM Receiver 200 Watts Phono Input Demo Ready",
+    "price": 199,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7919928979": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "DAC Topping D50",
+    "price": 45,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7919926216": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Router Arris Surfboard SBG7580 AC wireless and 2 extenders",
+    "price": 45,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7919921342": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Music Streamer Auralic Aries",
+    "price": 649,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934962224": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Logitech G603 Gaming Mouse",
+    "price": 35,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934961282": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Logitech C270 HD Webcam",
+    "price": 10,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7934960712": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Logitech Z200 speakers 3.5mm",
+    "price": 10,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7932074153": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Klaussner one drawer side table",
+    "price": 40,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7932070899": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Heywood Wakefield full sized maple bed",
+    "price": 140,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934970525": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Boston Interiors couch Rowe chairs Company C rug Ballard Design art",
+    "price": 50,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934969924": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Soft gaming chair by Asweets. New",
+    "price": 25,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7922780693": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Two Rectangle Children's Tables",
+    "price": 120,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934969682": {
+    "first_seen": "2026-05-17T20:11:10Z",
+    "title": "Large table",
+    "price": 40,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7933272281": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "WICKER KING SIZE HEADBOARD",
+    "price": 450,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7933278371": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Round table with wicker accents black draw coffee or end table",
+    "price": 45,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934968967": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Beautiful rattan dark well made bureau mirror and chair high quality",
+    "price": 400,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934968940": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "IKEA DESK&CHAIR",
+    "price": 75,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7934971441": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Aria acoustic guitar with case and extras",
+    "price": 250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934971006": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Vicera Jesus Christ electric guitar",
+    "price": 220,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934969449": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "ASM Hydrasynth Deluxe",
+    "price": 1200,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934969205": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Jackson Guitar in Coffin Case",
+    "price": 300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934969124": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Yamaha YAS-23 Alto Saxophon",
+    "price": 250,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934968508": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Arturia MatrixBrute",
+    "price": 900,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7925435961": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Catalinbread Night School Delay",
+    "price": 40,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7928549478": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Dr. Z Monza 1x10\" combo",
+    "price": 800,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934967649": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Pearl Double Braced Cymbal Boom - Cleaned Polished",
+    "price": 129,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7933114496": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Last Call Selling 3 Guitars as 1 Lot at 500 for all",
+    "price": 1500,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934961890": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Kemper Kabinet K12K",
+    "price": 300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7934971838": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Large Raleigh hybrid w/front suspension",
+    "price": 160,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934971762": {
+    "first_seen": "2026-05-17T20:11:48Z",
+    "title": "Lectric XP-4 750 Step-Thru folding e-bike",
+    "price": 675,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7928809614": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Peloton Bike - Excellent Condition + Shoes Weights & Extras",
+    "price": 375,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934969843": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Aluminum frame woman's hybrid road bike",
+    "price": 100,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7922816933": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Girls Giant 20 inch bicycle",
+    "price": 29,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934969588": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "10-speed vintage Huffy bike with female frame",
+    "price": 20,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7922780577": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Vintage Raleigh 10 Speed Record Ace",
+    "price": 120,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934964834": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "2 Woom GO 4 kids bikes for 6-8 year olds",
+    "price": 450,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934962111": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Trek FX 24\" Hybrid Bicycle",
+    "price": 135,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934961466": {
+    "first_seen": "2026-05-17T20:12:11Z",
+    "title": "Trek MultiTrack 730 Hybrid Bicycle",
+    "price": 165,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7934963991": {
+    "first_seen": "2026-05-17T20:12:44Z",
+    "title": "Pair of Vintage Faux Bamboo Hexagon Shape End Tables / Beveled Glass",
+    "price": 300,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7934971737": {
+    "first_seen": "2026-05-17T20:13:49Z",
+    "title": "Coffee table with two matching end tables",
+    "price": 450,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7934963490": {
+    "first_seen": "2026-05-17T20:13:49Z",
+    "title": "Aspen Cambridge Queen Cherry Wood Storage Sleigh Bed Available June",
+    "price": 450,
+    "category": "furniture",
+    "region": "newhaven"
   }
 }
