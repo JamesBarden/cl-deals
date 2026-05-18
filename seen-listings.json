@@ -54408,5 +54408,329 @@
     "price": 3000,
     "category": "instruments",
     "region": "newhaven"
+  },
+  "7933169436": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Photo booth dslr",
+    "price": 399,
+    "category": "photo"
+  },
+  "7932497028": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Pelican Case 1520",
+    "price": 60,
+    "category": "photo"
+  },
+  "7935091878": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Vintage electronics",
+    "price": 200,
+    "category": "electronics"
+  },
+  "7935085311": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "TASCAM 112R MK2 MKII TAPE Cassette Deck JAPAN PA pro audio player",
+    "price": 99,
+    "category": "electronics"
+  },
+  "7935091142": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "USA - Advent Legacy II Loud Speakers 200 watts (Restored)",
+    "price": 149,
+    "category": "electronics"
+  },
+  "7935091067": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Sansui 8900Z Digital Quartz DC Stereo Amp (250 Watts, Phono Inputs",
+    "price": 499,
+    "category": "electronics"
+  },
+  "7934095098": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Audio Technica AT-LP120-USB Turntable",
+    "price": 300,
+    "category": "electronics"
+  },
+  "7925535120": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Bose 301 Series ll Bookshelf Speakers.",
+    "price": 199,
+    "category": "electronics"
+  },
+  "7926615038": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Brother XL-2600i Sewing Machine.",
+    "price": 89,
+    "category": "electronics"
+  },
+  "7909422750": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "A/V cables",
+    "price": 5,
+    "category": "electronics"
+  },
+  "7923928006": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Stereo components",
+    "price": 500,
+    "category": "electronics"
+  },
+  "7935086471": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Bell'O Italian Big Screen TV and Stereo Stand (Paid $189)",
+    "price": 99,
+    "category": "electronics"
+  },
+  "7935090012": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "IKEA Ektorp 4 seat sectional white 100% cotton slipcover",
+    "price": 200,
+    "category": "furniture"
+  },
+  "7928237481": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Tolix style metal counter stools",
+    "price": 30,
+    "category": "furniture"
+  },
+  "7934467602": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Two (2) Crate & Barrel Boucle Accent Chairs",
+    "price": 200,
+    "category": "furniture"
+  },
+  "7933598209": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Roche Bobois Gray Leather Longitude Piston Relax Back Chair Germany",
+    "price": 225,
+    "category": "furniture"
+  },
+  "7933596892": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Luminous sculpture! SLAMP Made in Italy Diamond Floor Lamp",
+    "price": 400,
+    "category": "furniture"
+  },
+  "7935083002": {
+    "first_seen": "2026-05-18T14:07:09Z",
+    "title": "Brown Jordan Patio Table",
+    "price": 140,
+    "category": "furniture"
+  },
+  "7900411902": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Player Piano and extensive roll collection",
+    "price": 0,
+    "category": "instruments"
+  },
+  "7918739878": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "La8 Guitar Amp, in good working condition",
+    "price": 15,
+    "category": "instruments"
+  },
+  "7932700893": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "2 Black Metal Mic Floor Stands with Chord and Mic Clips",
+    "price": 20,
+    "category": "instruments"
+  },
+  "7934319300": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Cozart Custom Made Strat Style Electric 12 Sting",
+    "price": 350,
+    "category": "instruments"
+  },
+  "7928405995": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Peavey 'Rage 158' - LOT OF REPAIR Parts",
+    "price": 25,
+    "category": "instruments"
+  },
+  "7930290739": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Vintage VM Corp/Voice of Music USA Reel to Reel Dynamic Microphones",
+    "price": 25,
+    "category": "instruments"
+  },
+  "7935090294": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Coaster bike with one hand brake",
+    "price": 20,
+    "category": "bikes"
+  },
+  "7935089413": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Adams Trail-A-Bike",
+    "price": 80,
+    "category": "bikes"
+  },
+  "7935089095": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Fuji girls bike",
+    "price": 80,
+    "category": "bikes"
+  },
+  "7919856791": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "12\" Kazam Balance Kids Bike",
+    "price": 25,
+    "category": "bikes"
+  },
+  "7935082002": {
+    "first_seen": "2026-05-18T14:08:24Z",
+    "title": "Raleigh International (1974) ALL ORIGINAL",
+    "price": 1000,
+    "category": "bikes"
+  },
+  "7935091018": {
+    "first_seen": "2026-05-18T14:10:59Z",
+    "title": "Recliner",
+    "price": 950,
+    "category": "furniture"
+  },
+  "7935089915": {
+    "first_seen": "2026-05-18T14:10:59Z",
+    "title": "End Table/File Cabinet",
+    "price": 20,
+    "category": "furniture"
+  },
+  "7935079992": {
+    "first_seen": "2026-05-18T14:10:59Z",
+    "title": "Men's 10 speed mountain bike 26\"",
+    "price": 15,
+    "category": "bikes"
+  },
+  "7932026833": {
+    "first_seen": "2026-05-18T14:12:06Z",
+    "title": "Polk Audio Center Speaker",
+    "price": 50,
+    "category": "electronics"
+  },
+  "7935082415": {
+    "first_seen": "2026-05-18T14:12:06Z",
+    "title": "Wii Sports game system with controllers for sale",
+    "price": 60,
+    "category": "electronics"
+  },
+  "7930263359": {
+    "first_seen": "2026-05-18T14:12:06Z",
+    "title": "Sony Dream Machine CD-R/RW Playback ICF-CD863V CD AM/FM Radio Player",
+    "price": 50,
+    "category": "electronics"
+  },
+  "7935090801": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Couch/sleeper sofa",
+    "price": 400,
+    "category": "furniture"
+  },
+  "7935085731": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Wood Desk w Matching Hutch & Chair",
+    "price": 250,
+    "category": "furniture"
+  },
+  "7933876447": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Ikea Corner Shelf",
+    "price": 20,
+    "category": "furniture"
+  },
+  "7933874501": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Ikea Corner Shelf",
+    "price": 20,
+    "category": "furniture"
+  },
+  "7933565226": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Fairmont Designs Sideboard/Credenza With Drawers",
+    "price": 1000,
+    "category": "furniture"
+  },
+  "7933565042": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Fairmont Designs Sideboard/Credenza With Drawers",
+    "price": 1000,
+    "category": "furniture"
+  },
+  "7933167503": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Solid Wooden Side/End Table With One Drawer",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7933166982": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Solid Wooden Side/End Table With One Drawer",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7932257835": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Camping Picnic Light With 4 D Battery",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7931635422": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Black Side/End/Night Stand With One Drawer",
+    "price": 30,
+    "category": "furniture"
+  },
+  "7931211530": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Vintage Small Wooden Arm Chair",
+    "price": 55,
+    "category": "furniture"
+  },
+  "7931210121": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Vintage Wooden Side Table/Night Stand",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7931210597": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Vintage Wooden Side Table/Night Stand",
+    "price": 75,
+    "category": "furniture"
+  },
+  "7931157210": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Vintage Chippendale Mahogany Ball And Claw Night Stand",
+    "price": 200,
+    "category": "furniture"
+  },
+  "7930262827": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Set Of 3 Bar Stool",
+    "price": 50,
+    "category": "furniture"
+  },
+  "7930262577": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Vintage Entrance/Hallway Table With Drawer",
+    "price": 85,
+    "category": "furniture"
+  },
+  "7930080608": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Solid Wooden Side/End Table With Slide Tray",
+    "price": 55,
+    "category": "furniture"
+  },
+  "7929885326": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "Nice Black Wooden Side Table/Night Stand",
+    "price": 25,
+    "category": "furniture"
+  },
+  "7935080465": {
+    "first_seen": "2026-05-18T14:13:51Z",
+    "title": "4 Patio Chairs with cushions",
+    "price": 75,
+    "category": "furniture"
   }
 }
