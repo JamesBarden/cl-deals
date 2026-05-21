@@ -65965,5 +65965,138 @@
     "price": 0,
     "category": "bikes",
     "region": "boston"
+  },
+  "7935705748": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Nikon D5000 + lens",
+    "price": 225,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7935705245": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Canon 5D Mark II + 2 lenses",
+    "price": 475,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7935703359": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Canon EF-S 18-55mm f/3.5-5.6 IS Lens",
+    "price": 75,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7935708098": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Bose Silver Companion 2 Powered Multimedia Speakers",
+    "price": 95,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935707544": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Harvard Apparatus 330A Induction Stimulator with Box & Manual",
+    "price": 185,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935706485": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Audio-Technica AT841UG Omnidirectional Condenser Boundary Microphone",
+    "price": 265,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935711121": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Adjustable/Standing Desk",
+    "price": 90,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7935708168": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Dining table with extending leaf, 6 chairs and hutch",
+    "price": 550,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7935708113": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Queen-Size Bed Starter Pack Frame Mattress Comforter Pillows",
+    "price": 350,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7935707782": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Steelcase Player Multi-Use Chair",
+    "price": 120,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7935707313": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "West Elm Lorimer Sofa",
+    "price": 100,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7929491913": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Pottery Barn Reclaimed Wood Desk - 55 inch",
+    "price": 200,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7935704019": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Sienna Sleep Wooden Bed Frame - Full Size",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7930639562": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Gibson Les Paul",
+    "price": 1895,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935706769": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "ESP LTD B-50 Electric Bass Guitar",
+    "price": 295,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935704978": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Xaviere Les Paul",
+    "price": 140,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935701701": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Peavey neck through Grind bass",
+    "price": 300,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935708877": {
+    "first_seen": "2026-05-21T01:16:59Z",
+    "title": "Ladies Huffy Cruiser New Condition",
+    "price": 110,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935710879": {
+    "first_seen": "2026-05-21T01:19:04Z",
+    "title": "Bedroom set",
+    "price": 2500,
+    "category": "furniture",
+    "region": "daytona"
   }
 }
