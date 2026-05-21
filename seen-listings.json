@@ -67087,5 +67087,159 @@
     "price": 225,
     "category": "bikes",
     "region": "boston"
+  },
+  "7935791370": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "INFINITY Beta 20 Monitors (300 Watts) Demo Ready (Paid $400)",
+    "price": 199,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935791314": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "Onkyo TX-820 w/Remote (80 Watts) (Phono Input) Tested and Demo Ready",
+    "price": 199,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935790007": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "Infinity HTS-SAT 2-Way Satellite Speakers with Wall Brackets",
+    "price": 120,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7935806417": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "Computer Standing Desks",
+    "price": 100,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7933393576": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "West Elm - Metalwork Mini Nightstand (16\") x2",
+    "price": 600,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7933391025": {
+    "first_seen": "2026-05-21T16:12:07Z",
+    "title": "Joybird Preston Bench - Royal Blush",
+    "price": 800,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7922175847": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Luxury Tone FX Zonk Project Fuzz Guitar Effects Pedal",
+    "price": 170,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7921186660": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Guitar Effects Pedal Spring Cleanout (Overdrive, Fuzz, Amp Sim)",
+    "price": 111,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935069169": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Eric Clapton Blackie Signature Strat USA",
+    "price": 1350,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935794837": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Ampeg B15R $2000",
+    "price": 2000,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7935802632": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "SPECIALIZED HARD ROCK SPORT MOUNTAIN BIKE",
+    "price": 200,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935797015": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Specialized Allez road bike for kids",
+    "price": 300,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935789246": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "26 Schwinn 21-speed hybrid commuter bike MED/LGE for 5'8 to 6'0",
+    "price": 195,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935789283": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Raleigh road commuter bike w/ 58cm frame for 5'9 to 6'1",
+    "price": 225,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935793811": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Specialized Crossroads Elite bike - Hybrid, small frame",
+    "price": 350,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935791974": {
+    "first_seen": "2026-05-21T16:12:48Z",
+    "title": "Giant Talon Bike",
+    "price": 135,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7935805992": {
+    "first_seen": "2026-05-21T16:13:24Z",
+    "title": "Latex for Less Hybrid Latex Mattress, Medium, King, Like New",
+    "price": 225,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7934028045": {
+    "first_seen": "2026-05-21T16:13:24Z",
+    "title": "Round dining table and 6 chairs",
+    "price": 120,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7935806784": {
+    "first_seen": "2026-05-21T16:14:51Z",
+    "title": "Cabinet",
+    "price": 250,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7935805610": {
+    "first_seen": "2026-05-21T16:14:51Z",
+    "title": "leather top desk",
+    "price": 100,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7935804222": {
+    "first_seen": "2026-05-21T16:14:51Z",
+    "title": "Shaker table",
+    "price": 120,
+    "category": "furniture",
+    "region": "newhaven"
+  },
+  "7935802639": {
+    "first_seen": "2026-05-21T16:14:51Z",
+    "title": "Cedar Chest",
+    "price": 250,
+    "category": "furniture",
+    "region": "newhaven"
   }
 }
