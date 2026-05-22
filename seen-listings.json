@@ -69763,5 +69763,166 @@
     "price": 175,
     "category": "furniture",
     "region": "newhaven"
+  },
+  "7933902154": {
+    "first_seen": "2026-05-22T17:09:43Z",
+    "title": "Tamron 28-75mm f/2.8 DEAL BREAKER",
+    "price": 35,
+    "category": "photo",
+    "region": "boston"
+  },
+  "7936048410": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Cisco ATA 191 Multiplatform Analog Telephone Adapter - Brand New",
+    "price": 95,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7914858818": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Yamaha DX200 Desktop FM Synthesizer",
+    "price": 450,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936043797": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Marantz SR5400 6.1 Receiver w/Remote/Manual (540 Watts) (Demo Ready)",
+    "price": 269,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7920638770": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "New Airpods Max headphones",
+    "price": 200,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936043598": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "24\" Element TV",
+    "price": 20,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7926341576": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Pioneer Stereo Receiver SX-650-Fantastic Sound Quality.",
+    "price": 599,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936042830": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Classic Sylvania Speakers, Tested, Working, Cleaned (Demo Ready)",
+    "price": 49,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936042761": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Sansui 8900Z Digital Quartz DC Stereo Amp (250 Watts, Phono Inputs",
+    "price": 399,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936035761": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Bell'O Italian Big Screen TV and Stereo Stand (Paid $189)",
+    "price": 99,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936034248": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "DA-Lite Projection Screen 30x40",
+    "price": 75,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936025377": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Bluetooth Number Pad",
+    "price": 0,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936047948": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Vintage Rainbow Lamp Co. Touch Tubular Brass Lamp by Jim Bindman 1970s",
+    "price": 565,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7930478407": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "large wood hutch shelf perfect for office organizing",
+    "price": 70,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7933015011": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Darling 1940's Tea Table",
+    "price": 120,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7924435489": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Lane Mid-Century End Table",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7936031775": {
+    "first_seen": "2026-05-22T17:10:49Z",
+    "title": "Herman Miller WHITE/BROWN Desk - 48 x 30 Modern Office Table ON WHEELS",
+    "price": 565,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7924170569": {
+    "first_seen": "2026-05-22T17:11:55Z",
+    "title": "Aria Diamond 5102T semi-hollow MIJ '70s",
+    "price": 450,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7936040349": {
+    "first_seen": "2026-05-22T17:11:55Z",
+    "title": "60s Teisco Hollow Body Violin Style Six String Electric Guitar / Bag",
+    "price": 275,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7936045118": {
+    "first_seen": "2026-05-22T17:11:55Z",
+    "title": "Raleigh Road Bike - needs work",
+    "price": 30,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7936036764": {
+    "first_seen": "2026-05-22T17:11:55Z",
+    "title": "Haro V-1 Mountain Bike [Sz XS 13.5\"]",
+    "price": 165,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7936037038": {
+    "first_seen": "2026-05-22T17:12:51Z",
+    "title": "PTO Clutch",
+    "price": 75,
+    "category": "photo",
+    "region": "daytona"
+  },
+  "7936042757": {
+    "first_seen": "2026-05-22T17:13:46Z",
+    "title": "Mattress Clearance Center",
+    "price": 140,
+    "category": "furniture",
+    "region": "daytona"
   }
 }
