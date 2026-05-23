@@ -71865,5 +71865,103 @@
     "price": 40,
     "category": "furniture",
     "region": "newhaven"
+  },
+  "7920390488": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "2 DELL UltraSharp U2413F 24\" 1920x1200 IPS LED LCD Monitor DP HDMI DVI",
+    "price": 60,
+    "category": "electronics",
+    "region": "boston"
+  },
+  "7936204974": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "West Elm Slope Vegan Leather Counter Stools",
+    "price": 750,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7929589312": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Flexsteel chair and ottoman",
+    "price": 150,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7936204004": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "High Top Table - Industrial Style with 4 stools",
+    "price": 80,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7930323685": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Wing chairs",
+    "price": 800,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7936203678": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Two Allermuir Bentwood Chairs with Steel Chrome - Mid-Century Modern",
+    "price": 360,
+    "category": "furniture",
+    "region": "boston"
+  },
+  "7908029185": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Gretsch G6228TG",
+    "price": 1999,
+    "category": "instruments",
+    "region": "boston"
+  },
+  "7936202310": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "VERSATO Riviera;5'2\" to 5'5\";double suspension;21 speeds; like new",
+    "price": 250,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7936200709": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "2025 Trek Fuel EX 9.9 Mountain Bike, Size Large, Wireless Shifting",
+    "price": 5000,
+    "category": "bikes",
+    "region": "boston"
+  },
+  "7936203978": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Sony portable CD player",
+    "price": 50,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7936203947": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Sony fm/am walkman",
+    "price": 50,
+    "category": "electronics",
+    "region": "daytona"
+  },
+  "7936204546": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "CHINA CABINET",
+    "price": 125,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7936202085": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Nectar Luxe Hybrid Mattress, Twin-XL, Like New",
+    "price": 285,
+    "category": "furniture",
+    "region": "daytona"
+  },
+  "7936201910": {
+    "first_seen": "2026-05-23T12:11:00Z",
+    "title": "Fender",
+    "price": 1200,
+    "category": "instruments",
+    "region": "daytona"
   }
 }
